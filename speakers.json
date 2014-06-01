@@ -19,6 +19,7 @@
     ],
     "type" : "speaker",
     "biography" : "",
+    "photo": "https://pbs.twimg.com/profile_images/2603433301/yx46z865biyvbvjopzl5_400x400.jpeg",
     "name" : "Aaron Hillegas",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
@@ -70,6 +71,7 @@
     ],
     "type" : "speaker",
     "biography" : "",
+    "photo": "https://pbs.twimg.com/profile_images/472860850475122688/ti6GD7OB_400x400.jpeg",
     "name" : "Boris Bügling",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
@@ -82,8 +84,18 @@
       }
     ],
     "event" : "alt",
+    "links" : [
+      {
+        "username" : "brentsimmons",
+        "title" : "Twitter @brentsimmons",
+        "url" : "https:\/\/twitter.com\/brentsimmons",
+        "service" : "twitter",
+        "speaker-link" : "speaker-link"
+      }
+    ],
     "type" : "speaker",
     "biography" : "",
+    "photo": "https://pbs.twimg.com/profile_images/1608701783/GoldenGardens_Cropped_400x400.png",
     "name" : "Brent Simmons",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
@@ -107,6 +119,7 @@
     ],
     "type" : "speaker",
     "biography" : "",
+    "photo": "https://pbs.twimg.com/profile_images/1178987186/41542_6510219_8738_n_400x400.jpg",
     "name" : "Brianna Wu",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
@@ -158,6 +171,7 @@
     ],
     "type" : "speaker",
     "biography" : "",
+    "photo": "https://pbs.twimg.com/profile_images/378800000649736414/f9cb8cbbd00de3fd6074896c87f24341_400x400.jpeg",
     "name" : "James Dempsey",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
@@ -209,7 +223,7 @@
     "type" : "speaker",
     "biography" : "Jeff Kelley is an iOS developer at Detroit Labs and author of Learn Cocoa Touch for iOS, published by Apress. He got his start with programming at the age of five, modifying programs his mom dutifully typed from a magazine into Qbasic (thanks, Mom!). He’s been working with iOS since its infancy in 2008, and before that managed the OS X environment at the University of Michigan, where he obtained a very-related degree in Philosophy. Apps he’s worked on that you’ve likely seen are the Domino’s Pizza iOS ordering app, the award-winning Chevy Game Time second-screen Super Bowl experience, and the DTE Energy outage center app. When not working on iOS apps, Jeff listens to an inordinate amount of podcasts and organizes the Motor City CocoaHeads group.",
     "name" : "Jeff Kelly",
-    "url" : "X"
+    "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
   {
     "id" : "alt-speaker-24",
@@ -345,6 +359,7 @@
     "type" : "speaker",
     "biography" : "",
     "name" : "Mike Lee",
+    "photo": "https://pbs.twimg.com/profile_images/415590099536338944/M9PP5ZJR_400x400.jpeg",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
   {
@@ -383,9 +398,19 @@
         "title" : "Getting out Eigen"
       }
     ],
+    "links" : [
+      {
+        "username" : "orta",
+        "title" : "Twitter @orta",
+        "url" : "https:\/\/twitter.com\/orta",
+        "service" : "twitter",
+        "speaker-link" : "speaker-link"
+      }
+    ],
     "event" : "alt",
     "type" : "speaker",
     "biography" : "",
+    "photo": "https://pbs.twimg.com/profile_images/464291563259318272/8NHpSb9j_400x400.jpeg",
     "name" : "Orta Therox",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
@@ -439,9 +464,19 @@
         "title" : "Animations Explained"
       }
     ],
+    "links" : [
+      {
+        "username" : "ceterum_censeo",
+        "title" : "Twitter @ceterum_censeo",
+        "url" : "https:\/\/twitter.com\/ceterum_censeo",
+        "service" : "twitter",
+        "speaker-link" : "speaker-link"
+      }
+    ],
     "event" : "alt",
     "type" : "speaker",
     "biography" : "",
+    "photo": "https://pbs.twimg.com/profile_images/1846527502/twitter_400x400.png",
     "name" : "Robert Böhnke",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
@@ -539,6 +574,7 @@
     ],
     "type" : "speaker",
     "biography" : "Over the past 5 years of creating iOS and Mac apps for businesses and consumers, [Yang Meyer](http:\/\/twitter.com\/yangmeyer) has had the pleasure—and challenge—to work with many different designers. Out of this experience comes [Gemba](http:\/\/gemba.io), a Mac app that lets graphic designers push assets into a Git repository. Although it’s gotten increasingly hard to say [where home is](http:\/\/blog.yangmeyer.de\/blog\/2012\/07\/23\/home\/), Yang is currently [based in Stockholm](http:\/\/blog.yangmeyer.de\/blog\/2013\/11\/21\/stockholm).",
+    "photo": "https://pbs.twimg.com/profile_images/1852765967/yang-waynes-farewell_400x400.png",
     "name" : "Yang Meyer",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
@@ -547,9 +583,19 @@
     "sessions" : [
 
     ],
+    "links" : [
+      {
+        "username" : "mattt",
+        "title" : "Twitter @mattt",
+        "url" : "https:\/\/twitter.com\/mattt",
+        "service" : "twitter",
+        "speaker-link" : "speaker-link"
+      }
+    ],
     "event" : "alt",
     "type" : "speaker",
     "biography" : "",
+    "photo": "https://pbs.twimg.com/profile_images/3573863306/5333c08eae9005dd7a8cdd478202c818_400x400.jpeg",
     "name" : "mattt Thompson",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
   },
