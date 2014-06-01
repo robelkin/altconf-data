@@ -200,23 +200,7 @@
       }
     ],
     "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-02T16:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-02T15:45:00-07:00",
-    "id" : "alt-session-9",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "TBA",
-    "duration" : 30,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
+  },  
   {
     "end" : "2014-06-03T12:00:00-07:00",
     "location" : {
