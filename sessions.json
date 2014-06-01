@@ -28,7 +28,7 @@
       "id" : "development",
       "label_en" : "Development"
     },
-    "title" : "Keynote Live Stream",
+    "title" : "WWDC Keynote Live Stream",
     "abstract" : "Watch and listen live as Tim Cook shares his vision for the WWDC Keynote.",
     "duration" : 120,
     "url" : "http:\/\/altconf.com\/speakers"
@@ -242,19 +242,19 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-03T10:30:00-07:00",
+    "end" : "2014-06-03T09:30:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
       "label_en" : "Creativity Museum"
     },
-    "begin" : "2014-06-03T10:00:00-07:00",
+    "begin" : "2014-06-03T09:00:00-07:00",
     "id" : "alt-session-11",
     "track" : {
       "id" : "development",
       "label_en" : "Development"
     },
     "title" : "Interaction Prototyping with Origami & Quartz Composer",
-    "abstract" : "",
+    "abstract" : "In a world of swipes, taps, and direct manipulation, we need better tools for interaction design. In this session, we'll learn how to use Origami and Quartz Composer to rapidly iterate through interaction prototypes and improve upon the traditional design workflow of simply flipping through static mockups.",
     "duration" : 30,
     "speakers" : [
       {
@@ -282,19 +282,19 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-03T10:45:00-07:00",
+    "end" : "2014-06-03T10:30:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
       "label_en" : "Creativity Museum"
     },
-    "begin" : "2014-06-03T10:30:00-07:00",
+    "begin" : "2014-06-03T10:00:00-07:00",
     "id" : "alt-session-12",
     "track" : {
       "id" : "development",
       "label_en" : "Development"
     },
     "title" : "Break",
-    "duration" : 15,
+    "duration" : 30,
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
@@ -321,12 +321,12 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-03T11:45:00-07:00",
+    "end" : "2014-06-03T11:00:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
       "label_en" : "Creativity Museum"
     },
-    "begin" : "2014-06-03T11:15:00-07:00",
+    "begin" : "2014-06-03T10:30:00-07:00",
     "id" : "alt-session-14",
     "track" : {
       "id" : "development",
@@ -344,19 +344,19 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-03T12:00:00-07:00",
+    "end" : "2014-06-03T14:45:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
       "label_en" : "Creativity Museum"
     },
-    "begin" : "2014-06-03T11:45:00-07:00",
+    "begin" : "2014-06-03T14:30:00-07:00",
     "id" : "alt-session-15",
     "track" : {
       "id" : "development",
       "label_en" : "Development"
     },
     "title" : "Designers ♥ Developers",
-    "abstract" : "How we can create outstanding products by building mutual trust, taking joint ownership, and using tools that let us work together better.",
+    "abstract" : "Over the past 5 years of creating iOS and Mac apps for businesses and consumers, [Yang Meyer](http://twitter.com/yangmeyer) has had the pleasure—and challenge—to work with many different designers. Out of this experience comes [Gemba], a Mac app that lets graphic designers push assets into a Git repository. Although it’s gotten increasingly hard to say [where home is], Yang is currently [based in Stockholm].",
     "duration" : 15,
     "speakers" : [
       {
@@ -367,7 +367,7 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-03T13:00:00-07:00",
+    "end" : "2014-06-03T12:45:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
       "label_en" : "Creativity Museum"
@@ -379,7 +379,7 @@
       "label_en" : "Development"
     },
     "title" : "Lunch Break",
-    "duration" : 60,
+    "duration" : 45,
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
@@ -400,19 +400,19 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-03T13:30:00-07:00",
+    "end" : "2014-06-03T12:00:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
       "label_en" : "Creativity Museum"
     },
-    "begin" : "2014-06-03T13:00:00-07:00",
+    "begin" : "2014-06-03T11:30:00-07:00",
     "id" : "alt-session-17",
     "track" : {
       "id" : "development",
       "label_en" : "Development"
     },
     "title" : "Extending Xcode",
-    "abstract" : "",
+    "abstract" : "Boris is a Cocoa developer from Berlin, who currently works on the iOS SDK at Contentful. Before that he has written numerous apps and even was a Java developer in another life. He also tries to contribute to open source by building plugins to fix Xcode annoyances and bashing bugs in CocoaPods.",
     "duration" : 30,
     "speakers" : [
       {
@@ -463,20 +463,20 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-03T14:30:00-07:00",
+    "end" : "2014-06-03T14:00:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
       "label_en" : "Creativity Museum"
     },
-    "begin" : "2014-06-03T14:00:00-07:00",
+    "begin" : "2014-06-03T13:15:00-07:00",
     "id" : "alt-session-19",
     "track" : {
       "id" : "development",
       "label_en" : "Development"
     },
     "title" : "Being Better",
-    "abstract" : "",
-    "duration" : 30,
+    "abstract" : "Before he was known as the Mayor of Appsterdam, legendary product engineer and world's toughest programmer Mike Lee worked on apps for Alaska Airlines, Delicious Monster, Tapulous, United Lemur, Apple, and Nextive, producing such hits as Delicious Library, Tap Tap Revenge, Obama '08, and Apple's Mobile Store. Mike lives in a 17th century canal house in Amsterdam with his partner Judy and their cats, Wiebel and Wobbel. Mike enjoys racing cars, flying airplanes, and playing guitar, but he's also content sitting beside the canal, sharing a single-cask whisky with friends.",
+    "duration" : 45,
     "speakers" : [
       {
         "id" : "alt-speaker-11",
@@ -486,19 +486,19 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-03T14:45:00-07:00",
+    "end" : "2014-06-03T14:30:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
       "label_en" : "Creativity Museum"
     },
-    "begin" : "2014-06-03T14:30:00-07:00",
+    "begin" : "2014-06-03T14:00:00-07:00",
     "id" : "alt-session-20",
     "track" : {
       "id" : "development",
       "label_en" : "Development"
     },
     "title" : "Break",
-    "duration" : 15,
+    "duration" : 30,
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
@@ -975,19 +975,19 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-05T11:45:00-07:00",
+    "end" : "2014-06-03T13:15:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
       "label_en" : "Creativity Museum"
     },
-    "begin" : "2014-06-05T11:15:00-07:00",
+    "begin" : "2014-06-03T12:45:00-07:00",
     "id" : "alt-session-40",
     "track" : {
       "id" : "development",
       "label_en" : "Development"
     },
     "title" : "Mindful Design & Marketing",
-    "abstract" : "",
+    "abstract" : "Carla is an independent app producer passionate about marrying practical psychology and mobile technology. With a background in human factors, she launched her first app, Gratitude Journal (www.getgratitude.co), in 2008 and it instantly shot up to #1 and was hailed in the major news publications around the globe–all on a meager $500 budget. Her apps thrive in the top of the iTunes charts for years and are continually featured USA Today, Oprah, NPR, LifeHacker and countless other publications, making organic growth possible as well as raising money for charity. She has created a successful formula to bring app ideas to market faster and to take iTunes by storm–all without breaking the bank–which she shares in her top selling book, Idea to iPhone.",
     "duration" : 30,
     "speakers" : [
       {
@@ -1402,6 +1402,29 @@
       {
         "id" : "alt-speaker-32",
         "name" : "James Dempsey"
+      }
+    ],
+    "url" : "http:\/\/altconf.com\/speakers"
+  },
+  {
+    "end" : "2014-06-03T11:30:00-07:00",
+    "location" : {
+      "id" : "alt-location-mainstage",
+      "label_en" : "Creativity Museum"
+    },
+    "begin" : "2014-06-03T11:00:00-07:00",
+    "id" : "alt-session-61",
+    "track" : {
+      "id" : "development",
+      "label_en" : "Development"
+    },
+    "title" : "User Research for a Better Product",
+    "abstract" : "Nadyne is a staff researcher at VMware, leading user experience research efforts across VMware’s product portfolio. Prior to VMware, she was a user experience researcher in the Macintosh Business Unit at Microsoft. There, she focused on the award-winning Outlook:Mac, as well as PowerPoint:Mac, OneNote for iPhone, and OneNote for iPad.",
+    "duration" : 30,
+    "speakers" : [
+      {
+        "id" : "alt-speaker-37",
+        "name" : "Nadyne Rchmond"
       }
     ],
     "url" : "http:\/\/altconf.com\/speakers"

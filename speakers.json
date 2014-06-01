@@ -552,5 +552,19 @@
     "biography" : "",
     "name" : "mattt Thompson",
     "url" : "http:\/\/www.altconf.com\/speakers\/"
+  },
+    {
+    "id" : "alt-speaker-37",
+    "sessions" : [
+      { 
+        "id" : "alt-session-61",
+        "title" : "User Research for a Better Product"
+      }
+    ],
+    "event" : "alt",
+    "type" : "speaker",
+    "biography" : "",
+    "name" : "Nadyne Rchmond",
+    "url" : "http:\/\/www.altconf.com\/speakers\/"
   }
 ]
