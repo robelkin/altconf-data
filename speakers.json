@@ -31,6 +31,15 @@
         "title": "What The Heck Are We Building Here? - Software Ethics in a Time of Surveillance "
       }
     ],
+    "links": [
+      {
+        "username": "twittelator",
+        "title": "Twitter @twittelator",
+        "url": "https://twitter.com/twittelator",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
     "biography": "",
