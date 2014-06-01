@@ -230,6 +230,7 @@
       "label_en" : "Development"
     },
     "title" : "Accessibility Lab",
+    "abstract" : "Can everyone use your app? We'll have accessibility experts Charles Perry, Aaron Brager and Justin Kaufman on hand to demo Apple accessibility features, review your app for issues, and patch any bugs that arise.",
     "duration" : 180,
     "url" : "http:\/\/altconf.com\/speakers"
   },
@@ -292,6 +293,7 @@
       "label_en" : "Development"
     },
     "title" : "Edge Cases Live",
+    "abstract" : "Join Jonathan 'Wolf' Rentzsch and Andrew Pontious for an exciting live taping of their development podcast, Edge Cases. As usual, the topic will only be revealed to the co-host (and audience!) at the start of the show.",
     "duration" : 60,
     "url" : "http:\/\/altconf.com\/speakers"
   },
@@ -1165,7 +1167,7 @@
     },
     "title" : "Jailbreaking Lab",
     "duration" : 180,
-    "abstract" : "Join Samuel Marshall, co-author of ‘OS X Internals: A Systems Approach' and pick his brain about anything from DRM to framework internals and reverse engineering.",
+    "abstract" : "Jay Freeman (Cydia's \"saurik\") and Britta Gustafson (also from SaurikIT) will be in the house to have an open dialogue about what jailbreaking means for the developer community. The Lab will be helpful to everyone from the barely-heard-of-jailbreaking developers to those who enjoy talking about kernel exploits on their days off. You'll have the opportunity to learn about popular extensions available on a jailbroken iOS that provide features and functionality otherwise impossible inside the self-contained \"App Store app\" model. For app developers, stop by to hear about how jailbreaking affects your apps, the interesting advantages of testing on jailbroken devices, or just to say \"hi\".",
     "url" : "http:\/\/altconf.com\/speakers"
   },
     {
@@ -1181,7 +1183,7 @@
       "label_en" : "Development"
     },
     "title" : "Reverse Engineering Lab",
-    "abstract" : "Jay Freeman (Cydia's \"saurik\") and Britta Gustafson (also from SaurikIT) will be in the house to have an open dialogue about what jailbreaking means for the developer community. The Lab will be helpful to everyone from the barely-heard-of-jailbreaking developers to those who enjoy talking about kernel exploits on their days off. You'll have the opportunity to learn about popular extensions available on a jailbroken iOS that provide features and functionality otherwise impossible inside the self-contained \"App Store app\" model. For app developers, stop by to hear about how jailbreaking affects your apps, the interesting advantages of testing on jailbroken devices, or just to say \"hi\".",
+    "abstract" : "Join Samuel Marshall, co-author of ‘OS X Internals: A Systems Approach' and pick his brain about anything from DRM to framework internals and reverse engineering.",
     "duration" : 180,
     "url" : "http:\/\/altconf.com\/speakers"
   },
