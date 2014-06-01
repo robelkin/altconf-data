@@ -1,616 +1,627 @@
 [
   {
-    "id" : "alt-speaker-18",
-    "event" : "alt",
-    "sessions" : [
+    "id": "alt-speaker-18",
+    "event": "alt",
+    "sessions": [
       {
-        "id" : "alt-session-33",
-        "title" : "Networking on the Mac"
+        "id": "alt-session-33",
+        "title": "Networking on the Mac"
       }
     ],
-    "links" : [
+    "links": [
       {
-        "username" : "aaronhillegass",
-        "title" : "Twitter @aaronhillegass",
-        "url" : "https:\/\/twitter.com\/aaronhillegass",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "aaronhillegass",
+        "title": "Twitter @aaronhillegass",
+        "url": "https://twitter.com/aaronhillegass",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "type" : "speaker",
-    "biography" : "",
+    "type": "speaker",
+    "biography": "",
     "photo": "https://pbs.twimg.com/profile_images/2603433301/yx46z865biyvbvjopzl5_400x400.jpeg",
-    "name" : "Aaron Hillegas",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "name": "Aaron Hillegass",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-12",
-    "sessions" : [
+    "id": "alt-speaker-12",
+    "sessions": [
       {
-        "id" : "alt-session-21",
-        "title" : "What The Heck Are We Building Here? - Software Ethics in a Time of Surveillance "
+        "id": "alt-session-21",
+        "title": "What The Heck Are We Building Here? - Software Ethics in a Time of Surveillance "
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Andrew Stone",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Andrew Stone",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-14",
-    "sessions" : [
+    "id": "alt-speaker-14",
+    "sessions": [
       {
-        "id" : "alt-session-24",
-        "title" : "Introduction to RAC"
+        "id": "alt-session-24",
+        "title": "Introduction to RAC"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Ash Furrow",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Ash Furrow",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-9",
-    "event" : "alt",
-    "sessions" : [
+    "id": "alt-speaker-9",
+    "event": "alt",
+    "sessions": [
       {
-        "id" : "alt-session-17",
-        "title" : "Extending Xcode"
+        "id": "alt-session-17",
+        "title": "Extending Xcode"
       }
     ],
-    "links" : [
+    "links": [
       {
-        "username" : "neonacho",
-        "title" : "Twitter @neonacho",
-        "url" : "https:\/\/twitter.com\/neonacho",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "neonacho",
+        "title": "Twitter @neonacho",
+        "url": "https://twitter.com/neonacho",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "type" : "speaker",
-    "biography" : "",
+    "type": "speaker",
+    "biography": "",
     "photo": "https://pbs.twimg.com/profile_images/472860850475122688/ti6GD7OB_400x400.jpeg",
-    "name" : "Boris Bügling",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "name": "Boris Bügling",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-2",
-    "sessions" : [
+    "id": "alt-speaker-2",
+    "sessions": [
       {
-        "id" : "alt-session-7",
-        "title" : "Implementing Sync In Vesper"
+        "id": "alt-session-7",
+        "title": "Implementing Sync In Vesper"
       }
     ],
-    "event" : "alt",
-    "links" : [
+    "event": "alt",
+    "links": [
       {
-        "username" : "brentsimmons",
-        "title" : "Twitter @brentsimmons",
-        "url" : "https:\/\/twitter.com\/brentsimmons",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "brentsimmons",
+        "title": "Twitter @brentsimmons",
+        "url": "https://twitter.com/brentsimmons",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "type" : "speaker",
-    "biography" : "",
+    "type": "speaker",
+    "biography": "",
     "photo": "https://pbs.twimg.com/profile_images/1608701783/GoldenGardens_Cropped_400x400.png",
-    "name" : "Brent Simmons",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "name": "Brent Simmons",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-15",
-    "event" : "alt",
-    "sessions" : [
+    "id": "alt-speaker-15",
+    "event": "alt",
+    "sessions": [
       {
-        "id" : "alt-session-26",
-        "title" : "Nine ways to stop hurting and start helping women in tech"
+        "id": "alt-session-26",
+        "title": "Nine ways to stop hurting and start helping women in tech"
       }
     ],
-    "links" : [
+    "links": [
       {
-        "username" : "spacekatgal",
-        "title" : "Twitter @spacekatgal",
-        "url" : "https:\/\/twitter.com\/spacekatgal",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "spacekatgal",
+        "title": "Twitter @spacekatgal",
+        "url": "https://twitter.com/spacekatgal",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "type" : "speaker",
-    "biography" : "",
+    "type": "speaker",
+    "biography": "",
     "photo": "https://pbs.twimg.com/profile_images/1178987186/41542_6510219_8738_n_400x400.jpg",
-    "name" : "Brianna Wu",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "name": "Brianna Wu",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-23",
-    "sessions" : [
+    "id": "alt-speaker-23",
+    "sessions": [
       {
-        "id" : "alt-session-40",
-        "title" : "Mindful Design & Marketing"
+        "id": "alt-session-40",
+        "title": "Mindful Design & Marketing"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Carla White",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Carla White",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-3",
-    "sessions" : [
+    "id": "alt-speaker-3",
+    "sessions": [
       {
-        "id" : "alt-session-8",
-        "title" : "Thoughts on Design within HIGs"
+        "id": "alt-session-8",
+        "title": "Thoughts on Design within HIGs"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "David Wiskus",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "David Wiskus",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-32",
-    "event" : "alt",
-    "sessions" : [
+    "id": "alt-speaker-32",
+    "event": "alt",
+    "sessions": [
       {
-        "id" : "alt-session-60",
-        "title" : "A Look Back at the Week"
+        "id": "alt-session-60",
+        "title": "A Look Back at the Week"
       }
     ],
-    "links" : [
+    "links": [
       {
-        "username" : "jamesdempsey",
-        "title" : "Twitter @jamesdempsey",
-        "url" : "https:\/\/twitter.com\/jamesdempsey",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "jamesdempsey",
+        "title": "Twitter @jamesdempsey",
+        "url": "https://twitter.com/jamesdempsey",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "type" : "speaker",
-    "biography" : "",
+    "type": "speaker",
+    "biography": "",
     "photo": "https://pbs.twimg.com/profile_images/378800000649736414/f9cb8cbbd00de3fd6074896c87f24341_400x400.jpeg",
-    "name" : "James Dempsey",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "name": "James Dempsey",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-33",
-    "sessions" : [
-
-    ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Jay Freeman",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "id": "alt-speaker-33",
+    "sessions": [],
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Jay Freeman",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-5",
-    "sessions" : [
+    "id": "alt-speaker-5",
+    "sessions": [
       {
-        "id" : "alt-session-11",
-        "title" : "Interaction Prototyping with Origami & Quartz Composer"
+        "id": "alt-session-11",
+        "title": "Interaction Prototyping with Origami & Quartz Composer"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Jay Thrash",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Jay Thrash",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-22",
-    "sessions" : [
+    "id": "alt-speaker-22",
+    "sessions": [
       {
-        "id" : "alt-session-39",
-        "title" : "Communicating Across the Geek Divide"
+        "id": "alt-session-39",
+        "title": "Communicating Across the Geek Divide"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Jean MacDonald",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Jean MacDonald",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-34",
-    "sessions" : [
-
-    ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "Jeff Kelley is an iOS developer at Detroit Labs and author of Learn Cocoa Touch for iOS, published by Apress. He got his start with programming at the age of five, modifying programs his mom dutifully typed from a magazine into Qbasic (thanks, Mom!). He’s been working with iOS since its infancy in 2008, and before that managed the OS X environment at the University of Michigan, where he obtained a very-related degree in Philosophy. Apps he’s worked on that you’ve likely seen are the Domino’s Pizza iOS ordering app, the award-winning Chevy Game Time second-screen Super Bowl experience, and the DTE Energy outage center app. When not working on iOS apps, Jeff listens to an inordinate amount of podcasts and organizes the Motor City CocoaHeads group.",
-    "name" : "Jeff Kelly",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
-  },
-  {
-    "id" : "alt-speaker-24",
-    "sessions" : [
+    "id": "alt-speaker-34",
+    "sessions": [
       {
-        "id" : "alt-session-41",
-        "title" : "Modularizing an app with GDRouting and CocoaPods"
+        "id": "alt-session-64",
+        "title" : "Date and times in iOS"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Jonah Neugass",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "Jeff Kelley is an iOS developer at Detroit Labs and author of Learn Cocoa Touch for iOS, published by Apress. He got his start with programming at the age of five, modifying programs his mom dutifully typed from a magazine into Qbasic (thanks, Mom!). He’s been working with iOS since its infancy in 2008, and before that managed the OS X environment at the University of Michigan, where he obtained a very-related degree in Philosophy. Apps he’s worked on that you’ve likely seen are the Domino’s Pizza iOS ordering app, the award-winning Chevy Game Time second-screen Super Bowl experience, and the DTE Energy outage center app. When not working on iOS apps, Jeff listens to an inordinate amount of podcasts and organizes the Motor City CocoaHeads group.",
+    "name": "Jeff Kelly",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-30",
-    "sessions" : [
+    "id": "alt-speaker-24",
+    "sessions": [
       {
-        "id" : "alt-session-55",
-        "title" : "Debugging the Contract"
+        "id": "alt-session-41",
+        "title": "Modularizing an app with GDRouting and CocoaPods"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Jonathan Rhyne",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Jonah Neugass",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-29",
-    "sessions" : [
+    "id": "alt-speaker-30",
+    "sessions": [
       {
-        "id" : "alt-session-54",
-        "title" : "Finding the Intersection: Thoughts on Art & Tech"
+        "id": "alt-session-55",
+        "title": "Debugging the Contract"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Josh Michaels",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Jonathan Rhyne",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-35",
-    "sessions" : [
-
-    ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Luis Solano",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
-  },
-  {
-    "id" : "alt-speaker-10",
-    "sessions" : [
+    "id": "alt-speaker-29",
+    "sessions": [
       {
-        "id" : "alt-lab-7",
-        "title" : "Connected Devices Lab"
+        "id": "alt-session-54",
+        "title": "Finding the Intersection: Thoughts on Art & Tech"
+      }
+    ],
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Josh Michaels",
+    "url": "http://www.altconf.com/speakers/"
+  },
+  {
+    "id": "alt-speaker-35",
+    "sessions": [],
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Luis Solano",
+    "url": "http://www.altconf.com/speakers/"
+  },
+  {
+    "id": "alt-speaker-10",
+    "sessions": [
+      {
+        "id": "alt-lab-7",
+        "title": "Connected Devices Lab"
       },
       {
-        "id" : "alt-session-18",
-        "title" : "The Real Power of BLE"
+        "id": "alt-session-18",
+        "title": "The Real Power of BLE"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Mark Pauley",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Mark Pauley",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-26",
-    "sessions" : [
+    "id": "alt-speaker-26",
+    "sessions": [
       {
-        "id" : "alt-session-46",
-        "title" : "TBA"
+        "id": "alt-session-46",
+        "title": "TBA"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Micael Lopp",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Micael Lopp",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-13",
-    "sessions" : [
+    "id": "alt-speaker-13",
+    "sessions": [
       {
-        "id" : "alt-session-23",
-        "title" : "Enriching the iOS SDK"
+        "id": "alt-session-23",
+        "title": "Enriching the iOS SDK"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Michael Crump",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Michael Crump",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-25",
-    "sessions" : [
+    "id": "alt-speaker-25",
+    "sessions": [
       {
-        "id" : "alt-session-45",
-        "title" : "Demistifying The .xcodeproj File"
+        "id": "alt-session-45",
+        "title": "Demistifying The .xcodeproj File"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Michele Titolo",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Michele Titolo",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-11",
-    "event" : "alt",
-    "sessions" : [
+    "id": "alt-speaker-11",
+    "event": "alt",
+    "sessions": [
       {
-        "id" : "alt-session-19",
-        "title" : "Being Better"
+        "id": "alt-session-19",
+        "title": "Being Better"
       }
     ],
-    "links" : [
+    "links": [
       {
-        "username" : "bmf",
-        "title" : "Twitter @bmf",
-        "url" : "https:\/\/twitter.com\/bmf",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "bmf",
+        "title": "Twitter @bmf",
+        "url": "https://twitter.com/bmf",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Mike Lee",
+    "type": "speaker",
+    "biography": "",
+    "name": "Mike Lee",
     "photo": "https://pbs.twimg.com/profile_images/415590099536338944/M9PP5ZJR_400x400.jpeg",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-19",
-    "sessions" : [
+    "id": "alt-speaker-19",
+    "sessions": [
       {
-        "id" : "alt-session-35",
-        "title" : "XPC what I did there?”"
+        "id": "alt-session-35",
+        "title": "XPC what I did there?”"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Mikey Ward",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Mikey Ward",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-6",
-    "sessions" : [
+    "id": "alt-speaker-6",
+    "sessions": [
       {
-        "id" : "alt-session-13",
-        "title" : "User Research for a Better Product"
+        "id": "alt-session-13",
+        "title": "User Research for a Better Product"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Nadyne Richmond",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Nadyne Richmond",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-7",
-    "sessions" : [
+    "id": "alt-speaker-7",
+    "sessions": [
       {
-        "id" : "alt-session-14",
-        "title" : "Getting out Eigen"
+        "id": "alt-session-14",
+        "title": "Getting out Eigen"
       }
     ],
-    "links" : [
+    "links": [
       {
-        "username" : "orta",
-        "title" : "Twitter @orta",
-        "url" : "https:\/\/twitter.com\/orta",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "orta",
+        "title": "Twitter @orta",
+        "url": "https://twitter.com/orta",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
     "photo": "https://pbs.twimg.com/profile_images/464291563259318272/8NHpSb9j_400x400.jpeg",
-    "name" : "Orta Therox",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "name": "Orta Therox",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-20",
-    "sessions" : [
+    "id": "alt-speaker-20",
+    "sessions": [
       {
-        "id" : "alt-session-36",
-        "title" : "Discovery in the Appstore World"
+        "id": "alt-session-36",
+        "title": "Discovery in the Appstore World"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Ouriel Ohanyon",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Ouriel Ohanyon",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-28",
-    "sessions" : [
+    "id": "alt-speaker-28",
+    "sessions": [
       {
-        "id" : "alt-session-49",
-        "title" : "Fostering a local developer community"
+        "id": "alt-session-49",
+        "title": "Fostering a local developer community"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "Philippe is a Lead Developer at LightSpeed Retail, a Mac and Cloud-based point-of-sales system. He previously worked on Corel Painter and Mac versions of many AAA video games. After successfully leading his local Cocoaheads user group for five years, he co-organized the critically-acclaimed NSNorth conference in Ottawa.",
-    "name" : "Philippe Casgrain",
-    "url" : "X"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "Philippe is a Lead Developer at LightSpeed Retail, a Mac and Cloud-based point-of-sales system. He previously worked on Corel Painter and Mac versions of many AAA video games. After successfully leading his local Cocoaheads user group for five years, he co-organized the critically-acclaimed NSNorth conference in Ottawa.",
+    "name": "Philippe Casgrain",
+    "url": "X"
   },
   {
-    "id" : "alt-speaker-16",
-    "sessions" : [
+    "id": "alt-speaker-16",
+    "sessions": [
       {
-        "id" : "alt-session-27",
-        "title" : "Adding Juice to your Games"
+        "id": "alt-session-27",
+        "title": "Adding Juice to your Games"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Ray Wenderlich",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Ray Wenderlich",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-27",
-    "sessions" : [
+    "id": "alt-speaker-27",
+    "sessions": [
       {
-        "id" : "alt-session-47",
-        "title" : "Animations Explained"
+        "id": "alt-session-47",
+        "title": "Animations Explained"
       }
     ],
-    "links" : [
+    "links": [
       {
-        "username" : "ceterum_censeo",
-        "title" : "Twitter @ceterum_censeo",
-        "url" : "https:\/\/twitter.com\/ceterum_censeo",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "ceterum_censeo",
+        "title": "Twitter @ceterum_censeo",
+        "url": "https://twitter.com/ceterum_censeo",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
     "photo": "https://pbs.twimg.com/profile_images/1846527502/twitter_400x400.png",
-    "name" : "Robert Böhnke",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "name": "Robert Böhnke",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-21",
-    "sessions" : [
+    "id": "alt-speaker-21",
+    "sessions": [
       {
-        "id" : "alt-session-37",
-        "title" : "Accessibility: Beyond VoiceOver"
+        "id": "alt-session-37",
+        "title": "Accessibility: Beyond VoiceOver"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Sally Shepard",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Sally Shepard",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-17",
-    "sessions" : [
+    "id": "alt-speaker-17",
+    "sessions": [
       {
-        "id" : "alt-session-31",
-        "title" : "Insecure Code"
+        "id": "alt-session-31",
+        "title": "Insecure Code"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Sam Marshall",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Sam Marshall",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-1",
-    "sessions" : [
+    "id": "alt-speaker-1",
+    "sessions": [
       {
-        "id" : "alt-lab-13",
-        "title" : "Core Data Lab"
+        "id": "alt-lab-13",
+        "title": "Core Data Lab"
       },
       {
-        "id" : "alt-session-5",
-        "title" : "The Grass is Always Greener, or is it?"
+        "id": "alt-session-5",
+        "title": "The Grass is Always Greener, or is it?"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Saul Mora",
-    "url" : "https:\/\/www.flickr.com\/photos\/casademora\/9268096694\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Saul Mora",
+    "url": "https://www.flickr.com/photos/casademora/9268096694/"
   },
   {
-    "id" : "alt-speaker-4",
-    "sessions" : [
+    "id": "alt-speaker-4",
+    "sessions": [
       {
-        "id" : "alt-session-10",
-        "title" : "From Zero to Marketing in 7 days. Practical examples and pitfalls included."
+        "id": "alt-session-10",
+        "title": "From Zero to Marketing in 7 days. Practical examples and pitfalls included."
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Sofia Dvoynos",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Sofia Dvoynos",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-31",
-    "sessions" : [
+    "id": "alt-speaker-31",
+    "sessions": [
       {
-        "id" : "alt-session-56",
-        "title" : "Volunteering and Tackling World Problems with Your Skills"
+        "id": "alt-session-56",
+        "title": "Volunteering and Tackling World Problems with Your Skills"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Thomas Engel",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Thomas Engel",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-8",
-    "event" : "alt",
-    "sessions" : [
+    "id": "alt-speaker-8",
+    "event": "alt",
+    "sessions": [
       {
-        "id" : "alt-session-15",
-        "title" : "Designers ♥ Developers"
+        "id": "alt-session-15",
+        "title": "Designers ♥ Developers"
       }
     ],
-    "links" : [
+    "links": [
       {
-        "username" : "yangmeyer",
-        "title" : "Twitter @yangmeyer",
-        "url" : "https:\/\/twitter.com\/yangmeyer",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "yangmeyer",
+        "title": "Twitter @yangmeyer",
+        "url": "https://twitter.com/yangmeyer",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "type" : "speaker",
-    "biography" : "Over the past 5 years of creating iOS and Mac apps for businesses and consumers, [Yang Meyer](http:\/\/twitter.com\/yangmeyer) has had the pleasure—and challenge—to work with many different designers. Out of this experience comes [Gemba](http:\/\/gemba.io), a Mac app that lets graphic designers push assets into a Git repository. Although it’s gotten increasingly hard to say [where home is](http:\/\/blog.yangmeyer.de\/blog\/2012\/07\/23\/home\/), Yang is currently [based in Stockholm](http:\/\/blog.yangmeyer.de\/blog\/2013\/11\/21\/stockholm).",
+    "type": "speaker",
+    "biography": "Over the past 5 years of creating iOS and Mac apps for businesses and consumers, [Yang Meyer](http://twitter.com/yangmeyer) has had the pleasure—and challenge—to work with many different designers. Out of this experience comes [Gemba](http://gemba.io), a Mac app that lets graphic designers push assets into a Git repository. Although it’s gotten increasingly hard to say [where home is](http://blog.yangmeyer.de/blog/2012/07/23/home/), Yang is currently [based in Stockholm](http://blog.yangmeyer.de/blog/2013/11/21/stockholm).",
     "photo": "https://pbs.twimg.com/profile_images/1852765967/yang-waynes-farewell_400x400.png",
-    "name" : "Yang Meyer",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "name": "Yang Meyer",
+    "url": "http://www.altconf.com/speakers/"
   },
   {
-    "id" : "alt-speaker-36",
-    "sessions" : [
-
-    ],
-    "links" : [
+    "id": "alt-speaker-36",
+    "sessions": [],
+    "links": [
       {
-        "username" : "mattt",
-        "title" : "Twitter @mattt",
-        "url" : "https:\/\/twitter.com\/mattt",
-        "service" : "twitter",
-        "speaker-link" : "speaker-link"
+        "username": "mattt",
+        "title": "Twitter @mattt",
+        "url": "https://twitter.com/mattt",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
     "photo": "https://pbs.twimg.com/profile_images/3573863306/5333c08eae9005dd7a8cdd478202c818_400x400.jpeg",
-    "name" : "mattt Thompson",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "name": "mattt Thompson",
+    "url": "http://www.altconf.com/speakers/"
   },
-    {
-    "id" : "alt-speaker-37",
-    "sessions" : [
-      { 
-        "id" : "alt-session-61",
-        "title" : "User Research for a Better Product"
+  {
+    "id": "alt-speaker-37",
+    "sessions": [
+      {
+        "id": "alt-session-61",
+        "title": "User Research for a Better Product"
       }
     ],
-    "event" : "alt",
-    "type" : "speaker",
-    "biography" : "",
-    "name" : "Nadyne Rchmond",
-    "url" : "http:\/\/www.altconf.com\/speakers\/"
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Nadyne Rchmond",
+    "url": "http://www.altconf.com/speakers/"
+  },
+  {
+    "id": "alt-speaker-38",
+    "sessions": [
+      {
+        "id": "alt-session-61",
+        "title": "The 4 Mobile Traps"
+      }
+    ],
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Michael Mace",
+    "url": "http://www.altconf.com/speakers/"
   }
 ]

@@ -1,1432 +1,1494 @@
 [
   {
-    "end" : "2014-06-02T10:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-02T10:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-02T09:30:00-07:00",
-    "id" : "alt-session-1",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T09:30:00-07:00",
+    "id": "alt-session-1",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Keynote Breakfast",
-    "abstract" : "Relax in our venue directly opposite Moscone West. Treat yourself to some breakfast while Apple shuffle thousands of developers into the Keynote Hall.\n",
-    "duration" : 30,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Keynote Breakfast",
+    "abstract": "Relax in our venue directly opposite Moscone West. Treat yourself to some breakfast while Apple shuffle thousands of developers into the Keynote Hall.\n",
+    "duration": 30,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-02T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-02T10:00:00-07:00",
-    "id" : "alt-session-2",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T10:00:00-07:00",
+    "id": "alt-session-2",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "WWDC Keynote Live Stream",
-    "abstract" : "Watch and listen live as Tim Cook shares his vision for the WWDC Keynote.",
-    "duration" : 120,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "WWDC Keynote Live Stream",
+    "abstract": "Watch and listen live as Tim Cook shares his vision for the WWDC Keynote.",
+    "duration": 120,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T13:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-02T13:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-02T12:00:00-07:00",
-    "id" : "alt-session-3",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T12:00:00-07:00",
+    "id": "alt-session-3",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Lunch",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Lunch",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T16:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
+    "end": "2014-06-02T16:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
     },
-    "begin" : "2014-06-02T13:00:00-07:00",
-    "id" : "alt-lab-1",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T13:00:00-07:00",
+    "id": "alt-lab-1",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "1-on-1 Tutorials with raywenderlich.com",
-    "abstract" : "The team from raywenderlich.com is offering something special for this lab. Rather than coming specific questions, they'll be offering live 1-on-1 tutorials by the folks who do it best.\n\nChoose a topic that sounds interesting to you and stop on by. They'll give you a live walkthrough of your chosen subject, with a cool demo and supporting material, doing their best to tailor the content to your interests and skill level.\n\nThey have a variety of subjects available, from CALayers to Auto Layout to iBeacons, for all skill levels.",
-    "duration" : 180,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "1-on-1 Tutorials with raywenderlich.com",
+    "abstract": "The team from raywenderlich.com is offering something special for this lab. Rather than coming specific questions, they'll be offering live 1-on-1 tutorials by the folks who do it best.\n\nChoose a topic that sounds interesting to you and stop on by. They'll give you a live walkthrough of your chosen subject, with a cool demo and supporting material, doing their best to tailor the content to your interests and skill level.\n\nThey have a variety of subjects available, from CALayers to Auto Layout to iBeacons, for all skill levels.",
+    "duration": 180,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T10:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
+    "end": "2014-06-02T10:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
     },
-    "begin" : "2014-06-02T09:00:00-07:00",
-    "id" : "alt-lab-17",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T09:00:00-07:00",
+    "id": "alt-lab-17",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Welcome !",
-    "abstract" : "Come join the community as we mingle and get ready for the WWDC keynote.",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Welcome !",
+    "abstract": "Come join the community as we mingle and get ready for the WWDC keynote.",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
+    "end": "2014-06-02T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
     },
-    "begin" : "2014-06-02T10:00:00-07:00",
-    "id" : "alt-lab-18",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T10:00:00-07:00",
+    "id": "alt-lab-18",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "WWDC Keynote Livestream",
-    "abstract" : "Watch and listen live as Tim Cook shares his vision for the WWDC Keynote.",
-    "duration" : 120,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "WWDC Keynote Livestream",
+    "abstract": "Watch and listen live as Tim Cook shares his vision for the WWDC Keynote.",
+    "duration": 120,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T14:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-02T14:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-02T13:00:00-07:00",
-    "id" : "alt-session-4",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T13:00:00-07:00",
+    "id": "alt-session-4",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Keynote Panel Discussion",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Keynote Panel Discussion",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-06T14:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-06T14:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-06T14:00:00-07:00",
-    "id" : "alt-session-5",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-06T14:00:00-07:00",
+    "id": "alt-session-5",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "The Grass is Always Greener, or is it?",
-    "abstract" : "It’s been several years since I’ve been “employed”. I’ve traveled the world, meeting people and having a lot of fun while still contributing back to the community. Being an indie developer hadn’t always been a dream of mine, but now that I am living the live, is it really what I wanted? Would I go back to a “real job”? Let’s discuss! Also, ponies!",
-    "duration" : 30,
-    "speakers" : [
+    "title": "The Grass is Always Greener, or is it?",
+    "abstract": "It’s been several years since I’ve been “employed”. I’ve traveled the world, meeting people and having a lot of fun while still contributing back to the community. Being an indie developer hadn’t always been a dream of mine, but now that I am living the live, is it really what I wanted? Would I go back to a “real job”? Let’s discuss! Also, ponies!",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-1",
-        "name" : "Saul Mora"
+        "id": "alt-speaker-1",
+        "name": "Saul Mora"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T14:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-02T14:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-02T14:30:00-07:00",
-    "id" : "alt-session-6",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T14:30:00-07:00",
+    "id": "alt-session-6",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Break",
-    "duration" : 15,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Break",
+    "duration": 15,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T15:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-02T15:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-02T15:15:00-07:00",
-    "id" : "alt-session-7",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T15:15:00-07:00",
+    "id": "alt-session-7",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Implementing Sync In Vesper",
-    "abstract" : "We took Tim Wood’s advice when it comes to syncing: Own the Wheel. Instead of using an existing sync service for Vesper, we wrote our own, using Node.js, JavaScript, and a SQL database. This session is all about why and how we did it.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Implementing Sync In Vesper",
+    "abstract": "We took Tim Wood’s advice when it comes to syncing: Own the Wheel. Instead of using an existing sync service for Vesper, we wrote our own, using Node.js, JavaScript, and a SQL database. This session is all about why and how we did it.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-2",
-        "name" : "Brent Simmons"
+        "id": "alt-speaker-2",
+        "name": "Brent Simmons"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T15:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-02T15:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-02T14:45:00-07:00",
-    "id" : "alt-session-8",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T14:45:00-07:00",
+    "id": "alt-session-8",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Thoughts on Design within HIGs",
-    "abstract" : "From beginning to end, learn what went into the creation and refinement of Vesper.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Thoughts on Design within HIGs",
+    "abstract": "From beginning to end, learn what went into the creation and refinement of Vesper.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-3",
-        "name" : "Dave Wiskus"
+        "id": "alt-speaker-3",
+        "name": "Dave Wiskus"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
-  },  
-  {
-    "end" : "2014-06-03T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
-    },
-    "begin" : "2014-06-03T09:00:00-07:00",
-    "id" : "alt-lab-2",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Accessibility Lab",
-    "abstract" : "Can everyone use your app? We'll have accessibility experts Charles Perry, Aaron Brager and Justin Kaufman on hand to demo Apple accessibility features, review your app for issues, and patch any bugs that arise.",
-    "duration" : 180,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T10:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
     },
-    "begin" : "2014-06-03T09:30:00-07:00",
-    "id" : "alt-session-10",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T09:00:00-07:00",
+    "id": "alt-lab-2",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "From Zero to Marketing in 7 days. Practical examples and pitfalls included.",
-    "abstract" : "Head of Marketing at MacPaw, a Ukrainian-based company that specialises in OS X software development. Sofia leads specialists working in advertisement, SEO, PR, Social Media, Email Marketing, and Affiliates that promote products both in and outside the Mac App Store. MacPaw's applications have reached #1 in both paid and free categories on the Mac App Store, and are sold successfully outside of it as well.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Accessibility Lab",
+    "abstract": "Can everyone use your app? We'll have accessibility experts Charles Perry, Aaron Brager and Justin Kaufman on hand to demo Apple accessibility features, review your app for issues, and patch any bugs that arise.",
+    "duration": 180,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-03T10:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-03T09:30:00-07:00",
+    "id": "alt-session-10",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "From Zero to Marketing in 7 days. Practical examples and pitfalls included.",
+    "abstract": "Head of Marketing at MacPaw, a Ukrainian-based company that specialises in OS X software development. Sofia leads specialists working in advertisement, SEO, PR, Social Media, Email Marketing, and Affiliates that promote products both in and outside the Mac App Store. MacPaw's applications have reached #1 in both paid and free categories on the Mac App Store, and are sold successfully outside of it as well.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-4",
-        "name" : "Sofia Dvoynos"
+        "id": "alt-speaker-4",
+        "name": "Sofia Dvoynos"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T09:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T09:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T09:00:00-07:00",
-    "id" : "alt-session-11",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T09:00:00-07:00",
+    "id": "alt-session-11",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Interaction Prototyping with Origami & Quartz Composer",
-    "abstract" : "In a world of swipes, taps, and direct manipulation, we need better tools for interaction design. In this session, we'll learn how to use Origami and Quartz Composer to rapidly iterate through interaction prototypes and improve upon the traditional design workflow of simply flipping through static mockups.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Interaction Prototyping with Origami & Quartz Composer",
+    "abstract": "In a world of swipes, taps, and direct manipulation, we need better tools for interaction design. In this session, we'll learn how to use Origami and Quartz Composer to rapidly iterate through interaction prototypes and improve upon the traditional design workflow of simply flipping through static mockups.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-5",
-        "name" : "Jay Thrash"
+        "id": "alt-speaker-5",
+        "name": "Jay Thrash"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T11:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-2",
-      "label_en" : "Jilian's B"
+    "end": "2014-06-03T11:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-2",
+      "label_en": "Jilian's B"
     },
-    "begin" : "2014-06-03T10:00:00-07:00",
-    "id" : "alt-lab-3",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T10:00:00-07:00",
+    "id": "alt-lab-3",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Edge Cases Live",
-    "abstract" : "Join Jonathan 'Wolf' Rentzsch and Andrew Pontious for an exciting live taping of their development podcast, Edge Cases. As usual, the topic will only be revealed to the co-host (and audience!) at the start of the show.",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Edge Cases Live",
+    "abstract": "Join Jonathan 'Wolf' Rentzsch and Andrew Pontious for an exciting live taping of their development podcast, Edge Cases. As usual, the topic will only be revealed to the co-host (and audience!) at the start of the show.",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T10:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T10:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T10:00:00-07:00",
-    "id" : "alt-session-12",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T10:00:00-07:00",
+    "id": "alt-session-12",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Break",
-    "duration" : 30,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Break",
+    "duration": 30,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T11:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T11:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T10:45:00-07:00",
-    "id" : "alt-session-13",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T10:45:00-07:00",
+    "id": "alt-session-13",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "User Research for a Better Product",
-    "abstract" : "Steve Jobs told us many times that you cannot design by focus group because people don't know what they want.  He is right: the way to deliver the right user experience is to develop a deep understanding of what is important to your users.  We will discuss how Apple has developed this deep understanding and maintained their focus to enable them to deliver amazing products.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "User Research for a Better Product",
+    "abstract": "Steve Jobs told us many times that you cannot design by focus group because people don't know what they want.  He is right: the way to deliver the right user experience is to develop a deep understanding of what is important to your users.  We will discuss how Apple has developed this deep understanding and maintained their focus to enable them to deliver amazing products.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-6",
-        "name" : "Nadyne Richmond"
+        "id": "alt-speaker-6",
+        "name": "Nadyne Richmond"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T11:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T11:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T10:30:00-07:00",
-    "id" : "alt-session-14",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T10:30:00-07:00",
+    "id": "alt-session-14",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Getting out Eigen",
-    "abstract" : "Trials and tribulations on releasing artsy's first consumer facing app.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Getting out Eigen",
+    "abstract": "Trials and tribulations on releasing artsy's first consumer facing app.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-7",
-        "name" : "Orta Therox"
+        "id": "alt-speaker-7",
+        "name": "Orta Therox"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T14:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T14:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T14:30:00-07:00",
-    "id" : "alt-session-15",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T14:30:00-07:00",
+    "id": "alt-session-15",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Designers ♥ Developers",
-    "abstract" : "Over the past 5 years of creating iOS and Mac apps for businesses and consumers, [Yang Meyer](http://twitter.com/yangmeyer) has had the pleasure—and challenge—to work with many different designers. Out of this experience comes [Gemba], a Mac app that lets graphic designers push assets into a Git repository. Although it’s gotten increasingly hard to say [where home is], Yang is currently [based in Stockholm].",
-    "duration" : 15,
-    "speakers" : [
+    "title": "Designers ♥ Developers",
+    "abstract": "Over the past 5 years of creating iOS and Mac apps for businesses and consumers, [Yang Meyer](http://twitter.com/yangmeyer) has had the pleasure—and challenge—to work with many different designers. Out of this experience comes [Gemba], a Mac app that lets graphic designers push assets into a Git repository. Although it’s gotten increasingly hard to say [where home is], Yang is currently [based in Stockholm].",
+    "duration": 15,
+    "speakers": [
       {
-        "id" : "alt-speaker-8",
-        "name" : "Yang Meyer"
+        "id": "alt-speaker-8",
+        "name": "Yang Meyer"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T12:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T12:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T12:00:00-07:00",
-    "id" : "alt-session-16",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T12:00:00-07:00",
+    "id": "alt-session-16",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Lunch Break",
-    "duration" : 45,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Lunch Break",
+    "duration": 45,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T16:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-2",
-      "label_en" : "Jilian's B"
+    "end": "2014-06-03T16:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-2",
+      "label_en": "Jilian's B"
     },
-    "begin" : "2014-06-03T13:00:00-07:00",
-    "id" : "alt-lab-5",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T13:00:00-07:00",
+    "id": "alt-lab-5",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Enterprise \/ MDM Lab",
-    "abstract" : "James Daniels of AppBlade will be on hand to share his expertise on app provisioning, enterprise deployment, and mobile device management.",
-    "duration" : 180,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Enterprise / MDM Lab",
+    "abstract": "James Daniels of AppBlade will be on hand to share his expertise on app provisioning, enterprise deployment, and mobile device management.",
+    "duration": 180,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T11:30:00-07:00",
-    "id" : "alt-session-17",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T11:30:00-07:00",
+    "id": "alt-session-17",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Extending Xcode",
-    "abstract" : "Boris is a Cocoa developer from Berlin, who currently works on the iOS SDK at Contentful. Before that he has written numerous apps and even was a Java developer in another life. He also tries to contribute to open source by building plugins to fix Xcode annoyances and bashing bugs in CocoaPods.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Extending Xcode",
+    "abstract": "Boris is a Cocoa developer from Berlin, who currently works on the iOS SDK at Contentful. Before that he has written numerous apps and even was a Java developer in another life. He also tries to contribute to open source by building plugins to fix Xcode annoyances and bashing bugs in CocoaPods.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-9",
-        "name" : "Boris Bügling"
+        "id": "alt-speaker-9",
+        "name": "Boris Bügling"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T16:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
+    "end": "2014-06-03T16:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
     },
-    "begin" : "2014-06-03T13:00:00-07:00",
-    "id" : "alt-lab-4",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T13:00:00-07:00",
+    "id": "alt-lab-4",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Crash Reporting Lab",
-    "abstract" : "Join the HockeyApp team and others for answers to your pressing questions about debugging and crash reporting. They'll open with an introduction to crash reporting, then introduce some major enhancements brought by the ARM64 architecture.\nJoin the HockeyApp team and others for answers to your pressing questions about debugging and crash reporting. They'll open with an introduction to crash reporting, then introduce some major enhancements brought by the ARM64 architecture.",
-    "duration" : 180,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Crash Reporting Lab",
+    "abstract": "Join the HockeyApp team and others for answers to your pressing questions about debugging and crash reporting. They'll open with an introduction to crash reporting, then introduce some major enhancements brought by the ARM64 architecture.\nJoin the HockeyApp team and others for answers to your pressing questions about debugging and crash reporting. They'll open with an introduction to crash reporting, then introduce some major enhancements brought by the ARM64 architecture.",
+    "duration": 180,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-02T16:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-02T16:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-02T15:45:00-07:00",
-    "id" : "alt-session-18",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-02T15:45:00-07:00",
+    "id": "alt-session-18",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "The Real Power of BLE",
-    "abstract" : "Sample code and more to take true advantage of apple's bluetooth frameworks",
-    "duration" : 30,
-    "speakers" : [
+    "title": "The Real Power of BLE",
+    "abstract": "Sample code and more to take true advantage of apple's bluetooth frameworks",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-10",
-        "name" : "Mark Pauley"
+        "id": "alt-speaker-10",
+        "name": "Mark Pauley"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T14:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T14:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T13:15:00-07:00",
-    "id" : "alt-session-19",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T13:15:00-07:00",
+    "id": "alt-session-19",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Being Better",
-    "abstract" : "Before he was known as the Mayor of Appsterdam, legendary product engineer and world's toughest programmer Mike Lee worked on apps for Alaska Airlines, Delicious Monster, Tapulous, United Lemur, Apple, and Nextive, producing such hits as Delicious Library, Tap Tap Revenge, Obama '08, and Apple's Mobile Store. Mike lives in a 17th century canal house in Amsterdam with his partner Judy and their cats, Wiebel and Wobbel. Mike enjoys racing cars, flying airplanes, and playing guitar, but he's also content sitting beside the canal, sharing a single-cask whisky with friends.",
-    "duration" : 45,
-    "speakers" : [
+    "title": "Being Better",
+    "abstract": "Before he was known as the Mayor of Appsterdam, legendary product engineer and world's toughest programmer Mike Lee worked on apps for Alaska Airlines, Delicious Monster, Tapulous, United Lemur, Apple, and Nextive, producing such hits as Delicious Library, Tap Tap Revenge, Obama '08, and Apple's Mobile Store. Mike lives in a 17th century canal house in Amsterdam with his partner Judy and their cats, Wiebel and Wobbel. Mike enjoys racing cars, flying airplanes, and playing guitar, but he's also content sitting beside the canal, sharing a single-cask whisky with friends.",
+    "duration": 45,
+    "speakers": [
       {
-        "id" : "alt-speaker-11",
-        "name" : "Mike Lee"
+        "id": "alt-speaker-11",
+        "name": "Mike Lee"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T14:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T14:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T14:00:00-07:00",
-    "id" : "alt-session-20",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T14:00:00-07:00",
+    "id": "alt-session-20",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Break",
-    "duration" : 30,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Break",
+    "duration": 30,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T15:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T15:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T14:45:00-07:00",
-    "id" : "alt-session-21",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T14:45:00-07:00",
+    "id": "alt-session-21",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "What The Heck Are We Building Here? - Software Ethics in a Time of Surveillance ",
-    "abstract" : "We'll examine the myths and presumptions that have allowed us to create a ubiquitous out-of-control surveillance state, and the narrative that keeps us pretending that new always means better. We'll explore where we've been led, and look at possible ways to code a brighter future in the face of the oppressive aspects of technology. ",
-    "duration" : 30,
-    "speakers" : [
+    "title": "What The Heck Are We Building Here? - Software Ethics in a Time of Surveillance ",
+    "abstract": "We'll examine the myths and presumptions that have allowed us to create a ubiquitous out-of-control surveillance state, and the narrative that keeps us pretending that new always means better. We'll explore where we've been led, and look at possible ways to code a brighter future in the face of the oppressive aspects of technology. ",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-12",
-        "name" : "Andrew Stone"
+        "id": "alt-speaker-12",
+        "name": "Andrew Stone"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T16:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T16:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T15:15:00-07:00",
-    "id" : "alt-session-22",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T15:15:00-07:00",
+    "id": "alt-session-22",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Ethics in Software Discussion Panel",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Ethics in Software Discussion Panel",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
+    "end": "2014-06-04T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
     },
-    "begin" : "2014-06-04T09:00:00-07:00",
-    "id" : "alt-lab-8",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T09:00:00-07:00",
+    "id": "alt-lab-8",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Analytics Lab",
-    "abstract" : "Know what your users are doing, track where they're going, and influence how they got there. Analytics and marketing experts from Localytics will be on hand to help you understand the app metrics you should be tracking and strategies for acting on those insights to build better relationships with your users.",
-    "duration" : 180,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Analytics Lab",
+    "abstract": "Know what your users are doing, track where they're going, and influence how they got there. Analytics and marketing experts from Localytics will be on hand to help you understand the app metrics you should be tracking and strategies for acting on those insights to build better relationships with your users.",
+    "duration": 180,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-2",
-      "label_en" : "Jilian's B"
+    "end": "2014-06-04T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-2",
+      "label_en": "Jilian's B"
     },
-    "begin" : "2014-06-04T09:00:00-07:00",
-    "id" : "alt-lab-7",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T09:00:00-07:00",
+    "id": "alt-lab-7",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Connected Devices Lab",
-    "abstract" : "Pick up some tips and tricks from Mark Pauley of Anki, Heiko Behrens, Developer Experience Engineer at Pebble and creator of PebbleCam and others to teach you how to build apps that interact with the physical world. Expect to have access to Pebbles, Phillips Hue developer kits, Particle iBeacons from KS Technologies and more! ",
-    "duration" : 180,
-    "speakers" : [
+    "title": "Connected Devices Lab",
+    "abstract": "Pick up some tips and tricks from Mark Pauley of Anki, Heiko Behrens, Developer Experience Engineer at Pebble and creator of PebbleCam and others to teach you how to build apps that interact with the physical world. Expect to have access to Pebbles, Phillips Hue developer kits, Particle iBeacons from KS Technologies and more! ",
+    "duration": 180,
+    "speakers": [
       {
-        "id" : "alt-speaker-10",
-        "name" : "Mark Pauley"
+        "id": "alt-speaker-10",
+        "name": "Mark Pauley"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T10:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T10:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T09:30:00-07:00",
-    "id" : "alt-session-23",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T09:30:00-07:00",
+    "id": "alt-session-23",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Enriching the iOS SDK",
-    "abstract" : "This session provides a real world look at what our iOS clients asked us to build to enrich their iPhone and iPad applications",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Enriching the iOS SDK",
+    "abstract": "Michael Crump is coder, blogger, speaker and author of various mobile development topics. He works at Telerik with a focus on everything mobile and is a member of the iOS Team. When he is not in his lair, he can be found chasing his kids around the house or enjoying movies with his wife. Michael can be found on twitter at @mbcrump.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-13",
-        "name" : "Michael Crump"
+        "id": "alt-speaker-13",
+        "name": "Michael Crump"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T10:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T09:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T10:00:00-07:00",
-    "id" : "alt-session-24",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T09:00:00-07:00",
+    "id": "alt-session-24",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Introduction to RAC",
-    "abstract" : "An introduction to the Reactive Cocoa framework and how it can work for you",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Reactive Cocoa 101",
+    "abstract": "Ash Furrow is a Canadian iOS developer and author currently living in Amsterdam. He has published four books, many apps, and is a contributor to the open source community.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-14",
-        "name" : "Ash Furrow"
+        "id": "alt-speaker-14",
+        "name": "Ash Furrow"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T10:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T10:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T10:30:00-07:00",
-    "id" : "alt-session-25",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T10:30:00-07:00",
+    "id": "alt-session-25",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Break",
-    "duration" : 15,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Break",
+    "duration": 15,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T11:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T11:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T10:45:00-07:00",
-    "id" : "alt-session-26",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T10:45:00-07:00",
+    "id": "alt-session-26",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Nine ways to stop hurting and start helping women in tech",
-    "abstract" : "",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Nine ways to stop hurting and start helping women in tech",
+    "abstract": "Brianna Wu is head of development at Giant Spacekat, an all-female gamedev company making cinematic experiences with Unreal. She’s frequent speaker on women-in-tech issues, and has worked as a politico, and an investigate journalist.",
+    "duration": 45,
+    "speakers": [
       {
-        "id" : "alt-speaker-15",
-        "name" : "Brianna Wu"
+        "id": "alt-speaker-15",
+        "name": "Brianna Wu"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T11:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T11:15:00-07:00",
-    "id" : "alt-session-27",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T11:30:00-07:00",
+    "id": "alt-session-27",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Adding Juice to your Games",
-    "abstract" : "",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Adding Juice to your Games",
+    "abstract": "Ray is an indie software developer currently focusing on iPhone and iPad development, and the administrator of this site. He’s the founder of a small iPhone development studio called Razeware, and is passionate both about making apps and teaching others the techniques to make them.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-16",
-        "name" : "Ray Wenderlich"
+        "id": "alt-speaker-16",
+        "name": "Ray Wenderlich"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T11:45:00-07:00",
-    "id" : "alt-session-28",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T11:45:00-07:00",
+    "id": "alt-session-28",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "TBA",
-    "duration" : 15,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "TBA",
+    "duration": 15,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T13:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T13:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T12:00:00-07:00",
-    "id" : "alt-seesion-29",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T12:00:00-07:00",
+    "id": "alt-seesion-29",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Lunch Break",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Lunch Break",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T14:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T14:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T13:00:00-07:00",
-    "id" : "alt-session-30",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T13:00:00-07:00",
+    "id": "alt-session-30",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Games Discussion Panel",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Games Discussion Panel",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T16:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
+    "end": "2014-06-04T16:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
     },
-    "begin" : "2014-06-04T13:00:00-07:00",
-    "id" : "alt-lab-9",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T13:00:00-07:00",
+    "id": "alt-lab-9",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Journalist Pitch Lab",
-    "abstract" : "Want to get your apps noticed? Learn how to refine your pitch from the bloggers and journalists behind some of the biggest publications in the tech community. This is your opportunity to get some \"facetime\" (no WiFi required) with prominent members of the press, including Mark Gurman (9to5Mac), Arnold Kim (MacRumors), Peter Cohen (iMore), Nicole Martinelli (CultOfMac), and Victor Agreda, Jr. (TUAW). ",
-    "duration" : 180,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Journalist Pitch Lab",
+    "abstract": "Want to get your apps noticed? Learn how to refine your pitch from the bloggers and journalists behind some of the biggest publications in the tech community. This is your opportunity to get some \"facetime\" (no WiFi required) with prominent members of the press, including Mark Gurman (9to5Mac), Arnold Kim (MacRumors), Peter Cohen (iMore), Nicole Martinelli (CultOfMac), and Victor Agreda, Jr. (TUAW). ",
+    "duration": 180,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T16:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-2",
-      "label_en" : "Jilian's B"
+    "end": "2014-06-04T16:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-2",
+      "label_en": "Jilian's B"
     },
-    "begin" : "2014-06-04T13:00:00-07:00",
-    "id" : "alt-lab-10",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T13:00:00-07:00",
+    "id": "alt-lab-10",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Networking and Sync Lab",
-    "abstract" : "Challenge Leah Culver of Dropbox, Drew McCormack of the Ensembles sync framework and Mattt Thompson, the original NSHipster and creator of AFNetworking with your questions about getting data from here to there and back again.",
-    "duration" : 180,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Networking and Sync Lab",
+    "abstract": "Challenge Leah Culver of Dropbox, Drew McCormack of the Ensembles sync framework and Mattt Thompson, the original NSHipster and creator of AFNetworking with your questions about getting data from here to there and back again.",
+    "duration": 180,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T14:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T14:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T14:00:00-07:00",
-    "id" : "alt-session-31",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T14:00:00-07:00",
+    "id": "alt-session-31",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Insecure Code",
-    "abstract" : "A walkthrough of how security vulnerabilities can be unintentionally introduced in code based on two real world cases.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Insecure Code",
+    "abstract": "Samuel Marshall is an iOS and OS X Developer. Known for reverse engineering and breaking software. He is currently working on the second edition of “OS X Internals: A Systems Approach.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-17",
-        "name" : "Sam Marshall"
+        "id": "alt-speaker-17",
+        "name": "Sam Marshall"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-04T14:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T10:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-04T14:30:00-07:00",
-    "id" : "alt-session-32",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T10:00:00-07:00",
+    "id": "alt-session-32",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Break",
-    "duration" : 15,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-04T15:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-04T14:45:00-07:00",
-    "id" : "alt-session-33",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Networking on the Mac",
-    "abstract" : "A tour of the networking stack and technology that the Mac offers to developers",
-    "duration" : 30,
-    "speakers" : [
-      {
-        "id" : "alt-speaker-18",
-        "name" : "Aaron Hillegas"
-      }
-    ],
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-04T16:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-04T15:45:00-07:00",
-    "id" : "alt-session-35",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "XPC what I did there?”",
-    "abstract" : "a discussion of process separation using XPC on the Mac, wrapped in a story of learning.",
-    "duration" : 30,
-    "speakers" : [
-      {
-        "id" : "alt-speaker-19",
-        "name" : "Mikey Ward"
-      }
-    ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Break",
+    "duration": 30,
+    "url": "http://altconf.com/speakers"
   },
     {
-    "end" : "2014-06-05T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
+    "end": "2014-06-04T14:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-05T09:00:00-07:00",
-    "id" : "alt-lab-11",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T14:30:00-07:00",
+    "id": "alt-session-63",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Dev Tools Lab",
-    "abstract" : "Had a fun and educational time at the CocoaPods Alt State of the Union? Then come along to the CocoaPods Lab to work alongside the CocoaPods core team. Ask questions, get advice, or contribute something back to the CocoaPods project. You'll also get a chance to connect with the creators of Alcatraz, the missing Xcode plugin manager, Delisa Mason and Marin Usalj. Learn about neat tools or submit your own for the community to enjoy.",
-    "duration" : 180,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Break",
+    "duration": 15,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-05T10:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T15:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-05T09:30:00-07:00",
-    "id" : "alt-session-36",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T14:45:00-07:00",
+    "id": "alt-session-33",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Discovery in the Appstore World",
-    "abstract" : "",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Networking on the Mac",
+    "abstract": "Aaron founded the Ranch in 2001, just one highlight in a glowing career that began in childhood. He began programming at the ripe old age of 10 in the basement of the Oregon Museum of Science and Industry. At 19, he started doing it professionally, in the Advanced Signal Processing Lab at the Mitre Corporation. There he wrote the data structures library for Tower Eiffel, before leaving to work on Wall Street to help create mortgage-backed securities (a device that would, fifteen years later, bring our entire economy to its knees). But Aaron is no stranger to having such a huge impact. He wrote the book widely regarded to be the bible of Mac development: \"Cocoa Programming for Mac OS X.\" It is now in its fourth edition and has been translated into French, German, Korean, Japanese and Chinese. In November 2012, Aaron, who had been CEO, decided to merge the Ranch with Highgroove Studios, a web service firm headed by our current CEO, Charles Brian Quinn. He has now returned his focus to doing what he loves—coding, teaching, mentoring and writing—while the Ranch he created is run by someone equally as visionary.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-20",
-        "name" : "Ouriel Ohanyon"
+        "id": "alt-speaker-18",
+        "name": "Aaron Hillegass"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-05T10:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-04T16:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-05T10:00:00-07:00",
-    "id" : "alt-session-37",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T15:45:00-07:00",
+    "id": "alt-session-35",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Accessibility: Beyond VoiceOver",
-    "abstract" : "",
-    "duration" : 30,
-    "speakers" : [
+    "title": "XPC what I did there?”",
+    "abstract": "Mikey Ward is a senior iOS and Cocoa instructor at Big Nerd Ranch, and co-author of Objective-C Programming: The Big Nerd Ranch Guide. Since discovering QuickBASIC in the late 80's, he's enjoyed bossing computers around and now enjoys showing others how to do the same. When not teaching around the world, leading the development of BNR’s Advanced iOS course curriculum, Mikey can be found playing tabletop games or lost in a fantasy novel. Mikey also convenes the Atlanta chapter of CocoaHeads, a worldwide group devoted to discussion of Apple's frameworks for writing Mac and iOS applications.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-21",
-        "name" : "Sally Shepard"
+        "id": "alt-speaker-19",
+        "name": "Mikey Ward"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-05T10:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-05T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
     },
-    "begin" : "2014-06-05T10:30:00-07:00",
-    "id" : "alt-session-38",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-05T09:00:00-07:00",
+    "id": "alt-lab-11",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Break",
-    "duration" : 15,
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Dev Tools Lab",
+    "abstract": "Had a fun and educational time at the CocoaPods Alt State of the Union? Then come along to the CocoaPods Lab to work alongside the CocoaPods core team. Ask questions, get advice, or contribute something back to the CocoaPods project. You'll also get a chance to connect with the creators of Alcatraz, the missing Xcode plugin manager, Delisa Mason and Marin Usalj. Learn about neat tools or submit your own for the community to enjoy.",
+    "duration": 180,
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-05T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-2",
-      "label_en" : "Jilian's B"
+    "end": "2014-06-05T10:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-05T10:30:00-07:00",
-    "id" : "alt-lab-12",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-05T09:30:00-07:00",
+    "id": "alt-session-36",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "DevMate Introduction",
-    "abstract" : "There’s life outside the Mac App Store! Kyryl Bystriakov, Product Manager of MacPaw, and Dmitry Tretiakov, DevMate's frameworks developer will present solutions and a set of tools that will help you solve the problems you'll meet on your way, including practical advice from their own experience.",
-    "duration" : 90,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-05T11:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-05T10:45:00-07:00",
-    "id" : "alt-session-39",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Communicating Across the Geek Divide",
-    "abstract" : "As the Mac, iPhone and iPad become mainstream products, there is a rapidly-growing number of users who are not savvy about technology and software. To reach these new users and turn them into customers, it's become more important than ever to be able to communicate the benefits of what have been geek products to a non-geek audience. In this presentation, we'll review common mistakes that geeks make in app descriptions, emails, website copy, and release notes. Then we'll focus on how to revise them to appeal to a wider audience.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Discovery in the Appstore World",
+    "abstract": "",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-22",
-        "name" : "Jean MacDonald"
+        "id": "alt-speaker-20",
+        "name": "Ouriel Ohanyon"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-03T13:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-05T10:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-03T12:45:00-07:00",
-    "id" : "alt-session-40",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-05T10:00:00-07:00",
+    "id": "alt-session-37",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Mindful Design & Marketing",
-    "abstract" : "Carla is an independent app producer passionate about marrying practical psychology and mobile technology. With a background in human factors, she launched her first app, Gratitude Journal (www.getgratitude.co), in 2008 and it instantly shot up to #1 and was hailed in the major news publications around the globe–all on a meager $500 budget. Her apps thrive in the top of the iTunes charts for years and are continually featured USA Today, Oprah, NPR, LifeHacker and countless other publications, making organic growth possible as well as raising money for charity. She has created a successful formula to bring app ideas to market faster and to take iTunes by storm–all without breaking the bank–which she shares in her top selling book, Idea to iPhone.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Accessibility: Beyond VoiceOver",
+    "abstract": "",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-23",
-        "name" : "Carla White"
+        "id": "alt-speaker-21",
+        "name": "Sally Shepard"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-05T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-05T10:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-05T11:45:00-07:00",
-    "id" : "alt-session-41",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-05T10:30:00-07:00",
+    "id": "alt-session-38",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Modularizing an app with GDRouting and CocoaPods",
-    "abstract" : "Discussion on how we are using our GDRouting library, JLRoutes and CocoaPods to create our new domain search app.",
-    "duration" : 15,
-    "speakers" : [
+    "title": "Break",
+    "duration": 15,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-2",
+      "label_en": "Jilian's B"
+    },
+    "begin": "2014-06-05T10:30:00-07:00",
+    "id": "alt-lab-12",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "DevMate Introduction",
+    "abstract": "There’s life outside the Mac App Store! Kyryl Bystriakov, Product Manager of MacPaw, and Dmitry Tretiakov, DevMate's frameworks developer will present solutions and a set of tools that will help you solve the problems you'll meet on your way, including practical advice from their own experience.",
+    "duration": 90,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T11:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-05T10:45:00-07:00",
+    "id": "alt-session-39",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Communicating Across the Geek Divide",
+    "abstract": "As the Mac, iPhone and iPad become mainstream products, there is a rapidly-growing number of users who are not savvy about technology and software. To reach these new users and turn them into customers, it's become more important than ever to be able to communicate the benefits of what have been geek products to a non-geek audience. In this presentation, we'll review common mistakes that geeks make in app descriptions, emails, website copy, and release notes. Then we'll focus on how to revise them to appeal to a wider audience.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-24",
-        "name" : "Jonah Neugass"
+        "id": "alt-speaker-22",
+        "name": "Jean MacDonald"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-05T13:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-03T13:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-05T12:00:00-07:00",
-    "id" : "alt-session-42",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-03T12:45:00-07:00",
+    "id": "alt-session-40",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Lunch Break",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-05T14:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-05T13:00:00-07:00",
-    "id" : "alt-session-43",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Marketing Discussion Panel",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-05T16:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
-    },
-    "begin" : "2014-06-05T13:00:00-07:00",
-    "id" : "alt-lab-13",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Core Data Lab",
-    "abstract" : "Got Core Data question? Attend the Core Data lab and pose them to undisputed Core Data experts/influencers Saul Mora, creator of Magical Record, Matthew Morey, known for his work on increasing Core Data performance and Marcus Zarra who literally wrote the book about it.",
-    "duration" : 180,
-    "speakers" : [
+    "title": "Mindful Design & Marketing",
+    "abstract": "Carla is an independent app producer passionate about marrying practical psychology and mobile technology. With a background in human factors, she launched her first app, Gratitude Journal (www.getgratitude.co), in 2008 and it instantly shot up to #1 and was hailed in the major news publications around the globe–all on a meager $500 budget. Her apps thrive in the top of the iTunes charts for years and are continually featured USA Today, Oprah, NPR, LifeHacker and countless other publications, making organic growth possible as well as raising money for charity. She has created a successful formula to bring app ideas to market faster and to take iTunes by storm–all without breaking the bank–which she shares in her top selling book, Idea to iPhone.",
+    "duration": 30,
+    "speakers": [
       {
-        "id" : "alt-speaker-1",
-        "name" : "Saul Mora"
+        "id": "alt-speaker-23",
+        "name": "Carla White"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-05T14:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-05T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-05T14:30:00-07:00",
-    "id" : "alt-session-44",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-05T11:45:00-07:00",
+    "id": "alt-session-41",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Break",
-    "duration" : 15,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-05T15:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-05T14:45:00-07:00",
-    "id" : "alt-session-45",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Demistifying The .xcodeproj File",
-    "abstract" : "Do you frequently hear yourself say 'Don't touch the project file!', 'Who overrode my changes?' or 'Where did my file go?' If so, this talk is for you. We constantly put the project file on a pedestal of things-you-do-not-mess-with, but is this much caution really warranted? We'll cover tips, tricks, and solutions to promote harmony between you and your project file.",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Modularizing an app with GDRouting and CocoaPods",
+    "abstract": "Discussion on how we are using our GDRouting library, JLRoutes and CocoaPods to create our new domain search app.",
+    "duration": 15,
+    "speakers": [
       {
-        "id" : "alt-speaker-25",
-        "name" : "Michele Titolo"
+        "id": "alt-speaker-24",
+        "name": "Jonah Neugass"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-05T16:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
+    "end": "2014-06-05T13:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-05T15:30:00-07:00",
-    "id" : "alt-session-46",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-05T12:00:00-07:00",
+    "id": "alt-session-42",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "TBA",
-    "abstract" : "",
-    "duration" : 45,
-    "speakers" : [
+    "title": "Lunch Break",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T14:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-05T13:00:00-07:00",
+    "id": "alt-session-43",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Marketing Discussion Panel",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T16:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
+    },
+    "begin": "2014-06-05T13:00:00-07:00",
+    "id": "alt-lab-13",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Core Data Lab",
+    "abstract": "Got Core Data question? Attend the Core Data lab and pose them to undisputed Core Data experts/influencers Saul Mora, creator of Magical Record, Matthew Morey, known for his work on increasing Core Data performance and Marcus Zarra who literally wrote the book about it.",
+    "duration": 180,
+    "speakers": [
       {
-        "id" : "alt-speaker-26",
-        "name" : "Micael Lopp"
+        "id": "alt-speaker-1",
+        "name": "Saul Mora"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   },
   {
-    "end" : "2014-06-06T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
+    "end": "2014-06-05T14:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-06T09:00:00-07:00",
-    "id" : "alt-lab-14",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-05T14:30:00-07:00",
+    "id": "alt-session-44",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Jailbreaking Lab",
-    "duration" : 180,
-    "abstract" : "Jay Freeman (Cydia's \"saurik\") and Britta Gustafson (also from SaurikIT) will be in the house to have an open dialogue about what jailbreaking means for the developer community. The Lab will be helpful to everyone from the barely-heard-of-jailbreaking developers to those who enjoy talking about kernel exploits on their days off. You'll have the opportunity to learn about popular extensions available on a jailbroken iOS that provide features and functionality otherwise impossible inside the self-contained \"App Store app\" model. For app developers, stop by to hear about how jailbreaking affects your apps, the interesting advantages of testing on jailbroken devices, or just to say \"hi\".",
-    "url" : "http:\/\/altconf.com\/speakers"
+    "title": "Break",
+    "duration": 15,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T15:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-05T14:45:00-07:00",
+    "id": "alt-session-45",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Demistifying The .xcodeproj File",
+    "abstract": "Do you frequently hear yourself say 'Don't touch the project file!', 'Who overrode my changes?' or 'Where did my file go?' If so, this talk is for you. We constantly put the project file on a pedestal of things-you-do-not-mess-with, but is this much caution really warranted? We'll cover tips, tricks, and solutions to promote harmony between you and your project file.",
+    "duration": 30,
+    "speakers": [
+      {
+        "id": "alt-speaker-25",
+        "name": "Michele Titolo"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T16:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-05T15:30:00-07:00",
+    "id": "alt-session-46",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "TBA",
+    "abstract": "",
+    "duration": 45,
+    "speakers": [
+      {
+        "id": "alt-speaker-26",
+        "name": "Micael Lopp"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
+    },
+    "begin": "2014-06-06T09:00:00-07:00",
+    "id": "alt-lab-14",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Jailbreaking Lab",
+    "duration": 180,
+    "abstract": "Jay Freeman (Cydia's \"saurik\") and Britta Gustafson (also from SaurikIT) will be in the house to have an open dialogue about what jailbreaking means for the developer community. The Lab will be helpful to everyone from the barely-heard-of-jailbreaking developers to those who enjoy talking about kernel exploits on their days off. You'll have the opportunity to learn about popular extensions available on a jailbroken iOS that provide features and functionality otherwise impossible inside the self-contained \"App Store app\" model. For app developers, stop by to hear about how jailbreaking affects your apps, the interesting advantages of testing on jailbroken devices, or just to say \"hi\".",
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-2",
+      "label_en": "Jilian's B"
+    },
+    "begin": "2014-06-06T09:00:00-07:00",
+    "id": "alt-lab-19",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Reverse Engineering Lab",
+    "abstract": "Join Samuel Marshall, co-author of ‘OS X Internals: A Systems Approach' and pick his brain about anything from DRM to framework internals and reverse engineering.",
+    "duration": 180,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T10:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T09:30:00-07:00",
+    "id": "alt-session-47",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Animations Explained",
+    "abstract": "",
+    "duration": 30,
+    "speakers": [
+      {
+        "id": "alt-speaker-27",
+        "name": "Robert Böhnke"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T10:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T10:00:00-07:00",
+    "id": "alt-session-49",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Fostering a local developer community",
+    "abstract": "When you attend a conference, you do it to connect with people in real life. You want to have a good time, make some friends, geek out and learn some new things.What if you could replicate those feelings right in your hometown, on a regular basis? Think of how energized you would be, and how much more convenient it would be for you.Drawing on multiple years of experience, including putting together an acclaimed conference, Philippe will help you get started on growing your local developer scene. You will be surprised at how many people there are with similar interests, in your own backyard.  And you will be amazed at how much you will get back in return for your efforts.",
+    "duration": 30,
+    "speakers": [
+      {
+        "id": "alt-speaker-28",
+        "name": "Philippe Casgrain"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T10:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T10:30:00-07:00",
+    "id": "alt-session-50",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Break",
+    "duration": 15,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T11:00:00-07:00",
+    "id": "alt-session-52",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Design Discussion Panel",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T13:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T12:00:00-07:00",
+    "id": "alt-session-53",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Lunch Break",
+    "duration": 60,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T16:00:00-07:00",
+    "location": {
+      "id": "alt-location-lab-1",
+      "label_en": "Jilian's A"
+    },
+    "begin": "2014-06-06T13:00:00-07:00",
+    "id": "alt-lab-15",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "AltConf Speaker Livestream and coworking",
+    "abstract": "Come close out the week in style over amazing AltConf talks in a comfortable coworking format. ",
+    "duration": 240,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T13:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T13:00:00-07:00",
+    "id": "alt-session-54",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Finding the Intersection: Thoughts on Art & Tech",
+    "abstract": "Apple always says that the best products come from the intersection of technology and the arts, but where exactly is that? What does Apple mean? In this talk Josh will discuss a number of different challenges he's faced working at the intersection. From getting artists and engineers to work effectively together to exploring some of the economic and cultural issues they face. Josh will share his own personal story of coming into the art world as an engineer mixed with observations and lessons learned along the way.",
+    "duration": 30,
+    "speakers": [
+      {
+        "id": "alt-speaker-29",
+        "name": "Josh Michaels"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-02T14:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-02T14:00:00-07:00",
+    "id": "alt-session-55",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Debugging the Contract",
+    "abstract": "You came, you saw, and then you got handed the contract.  This talk will show you the most common bugs that should be squashed in a software developer contract.  Jonathan will walk you through major clauses negotiated in a contract, show you why you shouldn’t trust the “magic” of getting a form contract off the internets, and help translate some of the legal jargon into common sense.",
+    "duration": 30,
+    "speakers": [
+      {
+        "id": "alt-speaker-30",
+        "name": "Jonathan Rhyne"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T14:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T14:00:00-07:00",
+    "id": "alt-session-56",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Volunteering and Tackling World Problems with Your Skills",
+    "abstract": "",
+    "duration": 30,
+    "speakers": [
+      {
+        "id": "alt-speaker-31",
+        "name": "Thomas Engel"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T14:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T14:30:00-07:00",
+    "id": "alt-session-57",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Break",
+    "duration": 15,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T15:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T15:15:00-07:00",
+    "id": "alt-session-59",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "The Organizers of Alt ",
+    "duration": 15,
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T16:15:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T15:30:00-07:00",
+    "id": "alt-session-60",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "A Look Back at the Week",
+    "abstract": "",
+    "duration": 45,
+    "speakers": [
+      {
+        "id": "alt-speaker-32",
+        "name": "James Dempsey"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-03T11:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-03T11:00:00-07:00",
+    "id": "alt-session-61",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "User Research for a Better Product",
+    "abstract": "Nadyne is a staff researcher at VMware, leading user experience research efforts across VMware’s product portfolio. Prior to VMware, she was a user experience researcher in the Macintosh Business Unit at Microsoft. There, she focused on the award-winning Outlook:Mac, as well as PowerPoint:Mac, OneNote for iPhone, and OneNote for iPad.",
+    "duration": 30,
+    "speakers": [
+      {
+        "id": "alt-speaker-37",
+        "name": "Nadyne Rchmond"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-04T10:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-04T10:30:00-07:00",
+    "id": "alt-session-62",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "The 4 Mobile Traps",
+    "abstract": "We’ll discuss the most common UI/UX mistakes made by mobile apps, and how to avoid them. The talk will include video examples from real-world user tests.",
+    "duration": 15,
+    "speakers": [
+      {
+        "id": "alt-speaker-38",
+        "name": "Michael Mace"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
   },
     {
-    "end" : "2014-06-06T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-2",
-      "label_en" : "Jilian's B"
+    "end": "2014-06-04T15:45:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
     },
-    "begin" : "2014-06-06T09:00:00-07:00",
-    "id" : "alt-lab-19",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
+    "begin": "2014-06-04T15:15:00-07:00",
+    "id": "alt-session-64",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
     },
-    "title" : "Reverse Engineering Lab",
-    "abstract" : "Join Samuel Marshall, co-author of ‘OS X Internals: A Systems Approach' and pick his brain about anything from DRM to framework internals and reverse engineering.",
-    "duration" : 180,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T10:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T09:30:00-07:00",
-    "id" : "alt-session-47",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Animations Explained",
-    "abstract" : "",
-    "duration" : 30,
-    "speakers" : [
+    "title": "Dates and times in iOS",
+    "abstract": "",
+    "duration": 15,
+    "speakers": [
       {
-        "id" : "alt-speaker-27",
-        "name" : "Robert Böhnke"
+        "id": "alt-speaker-34",
+        "name": "Jeff Kelly"
       }
     ],
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T10:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T10:00:00-07:00",
-    "id" : "alt-session-49",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Fostering a local developer community",
-    "abstract" : "When you attend a conference, you do it to connect with people in real life. You want to have a good time, make some friends, geek out and learn some new things.What if you could replicate those feelings right in your hometown, on a regular basis? Think of how energized you would be, and how much more convenient it would be for you.Drawing on multiple years of experience, including putting together an acclaimed conference, Philippe will help you get started on growing your local developer scene. You will be surprised at how many people there are with similar interests, in your own backyard.  And you will be amazed at how much you will get back in return for your efforts.",
-    "duration" : 30,
-    "speakers" : [
-      {
-        "id" : "alt-speaker-28",
-        "name" : "Philippe Casgrain"
-      }
-    ],
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T10:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T10:30:00-07:00",
-    "id" : "alt-session-50",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Break",
-    "duration" : 15,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T12:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T11:00:00-07:00",
-    "id" : "alt-session-52",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Design Discussion Panel",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T13:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T12:00:00-07:00",
-    "id" : "alt-session-53",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Lunch Break",
-    "duration" : 60,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T16:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-1",
-      "label_en" : "Jilian's A"
-    },
-    "begin" : "2014-06-06T13:00:00-07:00",
-    "id" : "alt-lab-15",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "AltConf Speaker Livestream and coworking",
-    "abstract" : "Come close out the week in style over amazing AltConf talks in a comfortable coworking format. ",
-    "duration" : 240,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T13:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T13:00:00-07:00",
-    "id" : "alt-session-54",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Finding the Intersection: Thoughts on Art & Tech",
-    "abstract" : "Apple always says that the best products come from the intersection of technology and the arts, but where exactly is that? What does Apple mean? In this talk Josh will discuss a number of different challenges he's faced working at the intersection. From getting artists and engineers to work effectively together to exploring some of the economic and cultural issues they face. Josh will share his own personal story of coming into the art world as an engineer mixed with observations and lessons learned along the way.",
-    "duration" : 30,
-    "speakers" : [
-      {
-        "id" : "alt-speaker-29",
-        "name" : "Josh Michaels"
-      }
-    ],
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-02T14:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-02T14:00:00-07:00",
-    "id" : "alt-session-55",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Debugging the Contract",
-    "abstract" : "You came, you saw, and then you got handed the contract.  This talk will show you the most common bugs that should be squashed in a software developer contract.  Jonathan will walk you through major clauses negotiated in a contract, show you why you shouldn’t trust the “magic” of getting a form contract off the internets, and help translate some of the legal jargon into common sense.",
-    "duration" : 30,
-    "speakers" : [
-      {
-        "id" : "alt-speaker-30",
-        "name" : "Jonathan Rhyne"
-      }
-    ],
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T14:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T14:00:00-07:00",
-    "id" : "alt-session-56",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Volunteering and Tackling World Problems with Your Skills",
-    "abstract" : "",
-    "duration" : 30,
-    "speakers" : [
-      {
-        "id" : "alt-speaker-31",
-        "name" : "Thomas Engel"
-      }
-    ],
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T14:45:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T14:30:00-07:00",
-    "id" : "alt-session-57",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "Break",
-    "duration" : 15,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T15:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T15:15:00-07:00",
-    "id" : "alt-session-59",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "The Organizers of Alt ",
-    "duration" : 15,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-06T16:15:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-06T15:30:00-07:00",
-    "id" : "alt-session-60",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "A Look Back at the Week",
-    "abstract" : "",
-    "duration" : 45,
-    "speakers" : [
-      {
-        "id" : "alt-speaker-32",
-        "name" : "James Dempsey"
-      }
-    ],
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
-    "end" : "2014-06-03T11:30:00-07:00",
-    "location" : {
-      "id" : "alt-location-mainstage",
-      "label_en" : "Creativity Museum"
-    },
-    "begin" : "2014-06-03T11:00:00-07:00",
-    "id" : "alt-session-61",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "User Research for a Better Product",
-    "abstract" : "Nadyne is a staff researcher at VMware, leading user experience research efforts across VMware’s product portfolio. Prior to VMware, she was a user experience researcher in the Macintosh Business Unit at Microsoft. There, she focused on the award-winning Outlook:Mac, as well as PowerPoint:Mac, OneNote for iPhone, and OneNote for iPad.",
-    "duration" : 30,
-    "speakers" : [
-      {
-        "id" : "alt-speaker-37",
-        "name" : "Nadyne Rchmond"
-      }
-    ],
-    "url" : "http:\/\/altconf.com\/speakers"
+    "url": "http://altconf.com/speakers"
   }
 ]
