@@ -177,7 +177,10 @@
   },
   {
     "id": "alt-speaker-33",
-    "sessions": [],
+    "sessions": [{
+      "id": "alt-session-66",
+      "title": "debugging your apps with cycript"
+      }],
     "event": "alt",
     "type": "speaker",
     "biography": "",
@@ -306,7 +309,7 @@
     "event": "alt",
     "type": "speaker",
     "biography": "",
-    "name": "Micael Lopp",
+    "name": "Michael Lopp",
     "url": "http://www.altconf.com/speakers/"
   },
   {
@@ -424,7 +427,7 @@
     "event": "alt",
     "type": "speaker",
     "biography": "",
-    "name": "Ouriel Ohanyon",
+    "name": "Ouriel Ohayon",
     "url": "http://www.altconf.com/speakers/"
   },
   {
@@ -432,7 +435,7 @@
     "sessions": [
       {
         "id": "alt-session-49",
-        "title": "Fostering a local developer community"
+        "title": "Fostering a Local Development Community"
       }
     ],
     "event": "alt",
@@ -579,7 +582,10 @@
   },
   {
     "id": "alt-speaker-36",
-    "sessions": [],
+    "sessions": [{
+      "id": "alt-session-65",
+      "title":"Hidden gems in iOS"
+      }],
     "links": [
       {
         "username": "mattt",
@@ -622,6 +628,34 @@
     "type": "speaker",
     "biography": "",
     "name": "Michael Mace",
+    "url": "http://www.altconf.com/speakers/"
+  },
+  {
+    "id": "alt-speaker-39",
+    "sessions": [
+      {
+        "id": "alt-session-67",
+        "title": "Techniques to write DSLs in objective C"
+      }
+    ],
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Luis Solano",
+    "url": "http://www.altconf.com/speakers/"
+  },
+    {
+    "id": "alt-speaker-40",
+    "sessions": [
+      {
+        "id": "alt-session-68",
+        "title": "TBA"
+      }
+    ],
+    "event": "alt",
+    "type": "speaker",
+    "biography": "",
+    "name": "Victor Broido",
     "url": "http://www.altconf.com/speakers/"
   }
 ]

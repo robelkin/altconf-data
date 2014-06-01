@@ -117,19 +117,19 @@
     "url": "http://altconf.com/speakers"
   },
   {
-    "end": "2014-06-06T14:30:00-07:00",
+    "end": "2014-06-06T14:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
       "label_en": "Creativity Museum"
     },
-    "begin": "2014-06-06T14:00:00-07:00",
+    "begin": "2014-06-06T13:30:00-07:00",
     "id": "alt-session-5",
     "track": {
       "id": "development",
       "label_en": "Development"
     },
-    "title": "The Grass is Always Greener, or is it?",
-    "abstract": "It’s been several years since I’ve been “employed”. I’ve traveled the world, meeting people and having a lot of fun while still contributing back to the community. Being an indie developer hadn’t always been a dream of mine, but now that I am living the live, is it really what I wanted? Would I go back to a “real job”? Let’s discuss! Also, ponies!",
+    "title": " Are we doing what we should be with our time?",
+    "abstract": "Saul Mora is the host of NSBrief, a podcast for Cocoa developers, and an iOS Developer. Saul is an active member in the greater Cocoa developer community. Saul wrote the popular open source library MagicalRecord for iOS and Mac. He has also taught programming to elementary school children. Saul lives in Denver, Colorado with his wife and daughters",
     "duration": 30,
     "speakers": [
       {
@@ -809,7 +809,7 @@
     "duration": 30,
     "url": "http://altconf.com/speakers"
   },
-    {
+  {
     "end": "2014-06-04T14:45:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -901,12 +901,35 @@
       "label_en": "Development"
     },
     "title": "Discovery in the Appstore World",
-    "abstract": "",
+    "abstract": "40, French/Israeli. Entrpreneur. Co-founder of Appsfire.com a company focused on native mobile advertising and marketing, as well as  Isai.fr(early stage fund). Formerly general manager of LightSpeed Gemini Internet Lab, an israeli VC investing in early stage Internet startups. Ouriel is an investor in eBuzzing, Outbrain, Eyeview and Ginger Software (sold to Intel) and founded the french version of TechCrunch Ouriel graduated from HEC Paris and from CEMS Master (April 2013 Alumni of the month).",
     "duration": 30,
     "speakers": [
       {
         "id": "alt-speaker-20",
-        "name": "Ouriel Ohanyon"
+        "name": "Ouriel Ohayon"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T09:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-05T09:00:00-07:00",
+    "id": "alt-session-37",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Accessibility: Beyond VoiceOver",
+    "abstract": "Sally Shepard is an iOS developer who moved to software development from a background in audio engineering. She works in London, where she is Head of App Development at Dennis Publishing, one of the largest independent publishers in the UK. In her spare time she enjoys hacking, playing banjo and taking pictures with vintage cameras.",
+    "duration": 30,
+    "speakers": [
+      {
+        "id": "alt-speaker-21",
+        "name": "Sally Shepard"
       }
     ],
     "url": "http://altconf.com/speakers"
@@ -918,36 +941,13 @@
       "label_en": "Creativity Museum"
     },
     "begin": "2014-06-05T10:00:00-07:00",
-    "id": "alt-session-37",
-    "track": {
-      "id": "development",
-      "label_en": "Development"
-    },
-    "title": "Accessibility: Beyond VoiceOver",
-    "abstract": "",
-    "duration": 30,
-    "speakers": [
-      {
-        "id": "alt-speaker-21",
-        "name": "Sally Shepard"
-      }
-    ],
-    "url": "http://altconf.com/speakers"
-  },
-  {
-    "end": "2014-06-05T10:45:00-07:00",
-    "location": {
-      "id": "alt-location-mainstage",
-      "label_en": "Creativity Museum"
-    },
-    "begin": "2014-06-05T10:30:00-07:00",
     "id": "alt-session-38",
     "track": {
       "id": "development",
       "label_en": "Development"
     },
     "title": "Break",
-    "duration": 15,
+    "duration": 30,
     "url": "http://altconf.com/speakers"
   },
   {
@@ -968,19 +968,19 @@
     "url": "http://altconf.com/speakers"
   },
   {
-    "end": "2014-06-05T11:15:00-07:00",
+    "end": "2014-06-05T11:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
       "label_en": "Creativity Museum"
     },
-    "begin": "2014-06-05T10:45:00-07:00",
+    "begin": "2014-06-05T10:30:00-07:00",
     "id": "alt-session-39",
     "track": {
       "id": "development",
       "label_en": "Development"
     },
     "title": "Communicating Across the Geek Divide",
-    "abstract": "As the Mac, iPhone and iPad become mainstream products, there is a rapidly-growing number of users who are not savvy about technology and software. To reach these new users and turn them into customers, it's become more important than ever to be able to communicate the benefits of what have been geek products to a non-geek audience. In this presentation, we'll review common mistakes that geeks make in app descriptions, emails, website copy, and release notes. Then we'll focus on how to revise them to appeal to a wider audience.",
+    "abstract": "Jean MacDonald is the founder of App Camp For Girls, a nonprofit program whose mission is to inspire girls to pursue app development as a career.  Prior to that, she was responsible for marketing and PR for Smile, the developer of Mac and iOS productivity software. She also volunteers at the Rock 'n' Roll Camp for Girls in Portland and plays guitar with her band Ruby Calling Last year, she gave a presentation called \"Marketing You Won't Hate.\" Find her on Twitter and App.net.",
     "duration": 30,
     "speakers": [
       {
@@ -1014,19 +1014,19 @@
     "url": "http://altconf.com/speakers"
   },
   {
-    "end": "2014-06-05T12:00:00-07:00",
+    "end": "2014-06-05T11:15:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
       "label_en": "Creativity Museum"
     },
-    "begin": "2014-06-05T11:45:00-07:00",
+    "begin": "2014-06-05T11:00:00-07:00",
     "id": "alt-session-41",
     "track": {
       "id": "development",
       "label_en": "Development"
     },
     "title": "Modularizing an app with GDRouting and CocoaPods",
-    "abstract": "Discussion on how we are using our GDRouting library, JLRoutes and CocoaPods to create our new domain search app.",
+    "abstract": "Mobile development lead and all round good egg at GoDaddy",
     "duration": 15,
     "speakers": [
       {
@@ -1120,7 +1120,7 @@
       "label_en": "Development"
     },
     "title": "Demistifying The .xcodeproj File",
-    "abstract": "Do you frequently hear yourself say 'Don't touch the project file!', 'Who overrode my changes?' or 'Where did my file go?' If so, this talk is for you. We constantly put the project file on a pedestal of things-you-do-not-mess-with, but is this much caution really warranted? We'll cover tips, tricks, and solutions to promote harmony between you and your project file.",
+    "abstract": "Michele Titolo is a software engineer who ships great products. She has lead development teams to success in the AppStore, and raised and maintained quality standards on the projects she works on. She is a Core Team member of CocoaPods, and is CTO & Board Member of Women Who Code.",
     "duration": 30,
     "speakers": [
       {
@@ -1136,7 +1136,7 @@
       "id": "alt-location-mainstage",
       "label_en": "Creativity Museum"
     },
-    "begin": "2014-06-05T15:30:00-07:00",
+    "begin": "2014-06-05T15:15:00-07:00",
     "id": "alt-session-46",
     "track": {
       "id": "development",
@@ -1144,11 +1144,11 @@
     },
     "title": "TBA",
     "abstract": "",
-    "duration": 45,
+    "duration": 60,
     "speakers": [
       {
         "id": "alt-speaker-26",
-        "name": "Micael Lopp"
+        "name": "Michael Lopp"
       }
     ],
     "url": "http://altconf.com/speakers"
@@ -1188,24 +1188,47 @@
     "url": "http://altconf.com/speakers"
   },
   {
-    "end": "2014-06-06T10:00:00-07:00",
+    "end": "2014-06-06T11:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
       "label_en": "Creativity Museum"
     },
-    "begin": "2014-06-06T09:30:00-07:00",
+    "begin": "2014-06-06T10:30:00-07:00",
     "id": "alt-session-47",
     "track": {
       "id": "development",
       "label_en": "Development"
     },
     "title": "Animations Explained",
-    "abstract": "",
+    "abstract": "Robert Böhnke, (but you can call him Robb). is a mobile developer from Berlin. He's had a hand in some awesome projects from writing for objc.io to soundcloud and artsy apps.",
     "duration": 30,
     "speakers": [
       {
         "id": "alt-speaker-27",
         "name": "Robert Böhnke"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-06T10:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-06T09:30:00-07:00",
+    "id": "alt-session-49",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Fostering a local developer community",
+    "abstract": "Software developer. Mac & iPhone specialist. Organiser of NSNorth - Ottawa’s Independent iOS and Mac Developer and Designer Conference.",
+    "duration": 30,
+    "speakers": [
+      {
+        "id": "alt-speaker-28",
+        "name": "Philippe Casgrain"
       }
     ],
     "url": "http://altconf.com/speakers"
@@ -1217,36 +1240,13 @@
       "label_en": "Creativity Museum"
     },
     "begin": "2014-06-06T10:00:00-07:00",
-    "id": "alt-session-49",
-    "track": {
-      "id": "development",
-      "label_en": "Development"
-    },
-    "title": "Fostering a local developer community",
-    "abstract": "When you attend a conference, you do it to connect with people in real life. You want to have a good time, make some friends, geek out and learn some new things.What if you could replicate those feelings right in your hometown, on a regular basis? Think of how energized you would be, and how much more convenient it would be for you.Drawing on multiple years of experience, including putting together an acclaimed conference, Philippe will help you get started on growing your local developer scene. You will be surprised at how many people there are with similar interests, in your own backyard.  And you will be amazed at how much you will get back in return for your efforts.",
-    "duration": 30,
-    "speakers": [
-      {
-        "id": "alt-speaker-28",
-        "name": "Philippe Casgrain"
-      }
-    ],
-    "url": "http://altconf.com/speakers"
-  },
-  {
-    "end": "2014-06-06T10:45:00-07:00",
-    "location": {
-      "id": "alt-location-mainstage",
-      "label_en": "Creativity Museum"
-    },
-    "begin": "2014-06-06T10:30:00-07:00",
     "id": "alt-session-50",
     "track": {
       "id": "development",
       "label_en": "Development"
     },
     "title": "Break",
-    "duration": 15,
+    "duration": 30,
     "url": "http://altconf.com/speakers"
   },
   {
@@ -1299,19 +1299,19 @@
     "url": "http://altconf.com/speakers"
   },
   {
-    "end": "2014-06-06T13:30:00-07:00",
+    "end": "2014-06-06T14:30:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
       "label_en": "Creativity Museum"
     },
-    "begin": "2014-06-06T13:00:00-07:00",
+    "begin": "2014-06-06T14:00:00-07:00",
     "id": "alt-session-54",
     "track": {
       "id": "development",
       "label_en": "Development"
     },
     "title": "Finding the Intersection: Thoughts on Art & Tech",
-    "abstract": "Apple always says that the best products come from the intersection of technology and the arts, but where exactly is that? What does Apple mean? In this talk Josh will discuss a number of different challenges he's faced working at the intersection. From getting artists and engineers to work effectively together to exploring some of the economic and cultural issues they face. Josh will share his own personal story of coming into the art world as an engineer mixed with observations and lessons learned along the way.",
+    "abstract": "Josh Michaels is an independent app developer and photographer whose greatest accomplishment has been getting by for over 4 years without a job. Josh created the artistic apps Magic Window, Earthlapse, and Tahoe Blue for iOS and Mac as well as the deviant 4X platinum hit Ow My Balls! In addition to taking pictures and making apps Josh applies his passion for software art to the pop-up iPad art show “Future/Canvas.” You can find Josh on twitter @joshjet.",
     "duration": 30,
     "speakers": [
       {
@@ -1345,19 +1345,19 @@
     "url": "http://altconf.com/speakers"
   },
   {
-    "end": "2014-06-06T14:30:00-07:00",
+    "end": "2014-06-06T13:30:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
       "label_en": "Creativity Museum"
     },
-    "begin": "2014-06-06T14:00:00-07:00",
+    "begin": "2014-06-06T13:00:00-07:00",
     "id": "alt-session-56",
     "track": {
       "id": "development",
       "label_en": "Development"
     },
     "title": "Volunteering and Tackling World Problems with Your Skills",
-    "abstract": "",
+    "abstract": "A teacher, physician and software engineer, Thomas been an Apple Developer since the Macintosh SE and an iPhone developer since the 3GS. He's written or directed dozens of simulation, education and decision support projects large and small. One of a few very awesome people that have gone from attendee to a speaker at altConf.",
     "duration": 30,
     "speakers": [
       {
@@ -1395,7 +1395,7 @@
       "id": "development",
       "label_en": "Development"
     },
-    "title": "The Organizers of Alt ",
+    "title": "The Organizers of Alt",
     "duration": 15,
     "url": "http://altconf.com/speakers"
   },
@@ -1411,8 +1411,8 @@
       "id": "development",
       "label_en": "Development"
     },
-    "title": "A Look Back at the Week",
-    "abstract": "",
+    "title": "A Look Back",
+    "abstract": "James worked at Apple for fifteen years before setting out on his own in August 2011.  As a software engineer at Apple, he worked on iOS, Aperture, and OS X releases Leopard through Lion, including half a decade on the Cocoa frameworks team. He's also trained hundreds of developers on Apple technologies, including teaching Cocoa development at Stanford University and presenting at the Worldwide Developers Conference (WWDC) for over a decade.",
     "duration": 45,
     "speakers": [
       {
@@ -1468,7 +1468,7 @@
     ],
     "url": "http://altconf.com/speakers"
   },
-    {
+  {
     "end": "2014-06-04T15:45:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -1487,6 +1487,98 @@
       {
         "id": "alt-speaker-34",
         "name": "Jeff Kelly"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-05T11:30:00-07:00",
+    "id": "alt-session-65",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Hidden gems in iOS",
+    "abstract": "",
+    "duration": 15,
+    "speakers": [
+      {
+        "id": "alt-speaker-34",
+        "name": "Mattt Thompson"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T12:00:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-05T11:30:00-07:00",
+    "id": "alt-session-66",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "debugging your apps with cycript",
+    "abstract": "",
+    "duration": 15,
+    "speakers": [
+      {
+        "id": "alt-speaker-33",
+        "name": "Jay Freeman"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T09:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-05T09:00:00-07:00",
+    "id": "alt-session-67",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "Techniques to write DSLs in objective C",
+    "abstract": "",
+    "duration": 15,
+    "speakers": [
+      {
+        "id": "alt-speaker-39",
+        "name": "Luis Solano"
+      }
+    ],
+    "url": "http://altconf.com/speakers"
+  },
+  {
+    "end": "2014-06-05T09:30:00-07:00",
+    "location": {
+      "id": "alt-location-mainstage",
+      "label_en": "Creativity Museum"
+    },
+    "begin": "2014-06-05T09:00:00-07:00",
+    "id": "alt-session-68",
+    "track": {
+      "id": "development",
+      "label_en": "Development"
+    },
+    "title": "TBA",
+    "abstract": "",
+    "duration": 15,
+    "speakers": [
+      {
+        "id": "alt-speaker-40",
+        "name": "Victor Broido"
       }
     ],
     "url": "http://altconf.com/speakers"
