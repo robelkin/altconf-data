@@ -477,22 +477,6 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
-    "end" : "2014-06-03T16:00:00-07:00",
-    "location" : {
-      "id" : "alt-location-lab-3",
-      "label_en" : "Jilian's"
-    },
-    "begin" : "2014-06-03T14:00:00-07:00",
-    "id" : "alt-lab-6",
-    "track" : {
-      "id" : "development",
-      "label_en" : "Development"
-    },
-    "title" : "DevMate Lab",
-    "duration" : 120,
-    "url" : "http:\/\/altconf.com\/speakers"
-  },
-  {
     "end" : "2014-06-03T14:30:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
@@ -883,6 +867,23 @@
         "name" : "Mikey Ward"
       }
     ],
+    "url" : "http:\/\/altconf.com\/speakers"
+  },
+    {
+    "end" : "2014-06-05T12:00:00-07:00",
+    "location" : {
+      "id" : "alt-location-lab-1",
+      "label_en" : "Jilian's"
+    },
+    "begin" : "2014-06-05T09:00:00-07:00",
+    "id" : "alt-lab-11",
+    "track" : {
+      "id" : "development",
+      "label_en" : "Development"
+    },
+    "title" : "Dev Tools Lab",
+    "abstract" : "Had a fun and educational time at the CocoaPods Alt State of the Union? Then come along to the CocoaPods Lab to work alongside the CocoaPods core team. Ask questions, get advice, or contribute something back to the CocoaPods project. You'll also get a chance to connect with the creators of Alcatraz, the missing Xcode plugin manager, Delisa Mason and Marin Usalj. Learn about neat tools or submit your own for the community to enjoy.",
+    "duration" : 180,
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
