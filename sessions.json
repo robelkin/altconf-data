@@ -67,6 +67,40 @@
     "url" : "http:\/\/altconf.com\/speakers"
   },
   {
+    "end" : "2014-06-02T10:00:00-07:00",
+    "location" : {
+      "id" : "alt-location-lab-1",
+      "label_en" : "Jilian's"
+    },
+    "begin" : "2014-06-02T09:00:00-07:00",
+    "id" : "alt-lab-17",
+    "track" : {
+      "id" : "development",
+      "label_en" : "Development"
+    },
+    "title" : "Welcome !",
+    "abstract" : "Come join the community as we mingle and get ready for the WWDC keynote.",
+    "duration" : 60,
+    "url" : "http:\/\/altconf.com\/speakers"
+  },
+  {
+    "end" : "2014-06-02T12:00:00-07:00",
+    "location" : {
+      "id" : "alt-location-lab-1",
+      "label_en" : "Jilian's"
+    },
+    "begin" : "2014-06-02T10:00:00-07:00",
+    "id" : "alt-lab-18",
+    "track" : {
+      "id" : "development",
+      "label_en" : "Development"
+    },
+    "title" : "WWDC Keynote Livestream",
+    "abstract" : "Watch and listen live as Tim Cook shares his vision for the WWDC Keynote.",
+    "duration" : 120,
+    "url" : "http:\/\/altconf.com\/speakers"
+  },
+  {
     "end" : "2014-06-02T14:00:00-07:00",
     "location" : {
       "id" : "alt-location-mainstage",
@@ -549,6 +583,7 @@
       "label_en" : "Development"
     },
     "title" : "Analytics Lab",
+    "abstract" : "Know what your users are doing, track where they're going, and influence how they got there. Analytics and marketing experts from Localytics will be on hand to help you understand the app metrics you should be tracking and strategies for acting on those insights to build better relationships with your users.",
     "duration" : 180,
     "url" : "http:\/\/altconf.com\/speakers"
   },
@@ -565,6 +600,7 @@
       "label_en" : "Development"
     },
     "title" : "Connected Devices Lab",
+    "abstract" : "Pick up some tips and tricks from Mark Pauley of Anki, Heiko Behrens, Developer Experience Engineer at Pebble and creator of PebbleCam and others to teach you how to build apps that interact with the physical world. Expect to have access to Pebbles, Phillips Hue developer kits, Particle iBeacons from KS Technologies and more! ",
     "duration" : 180,
     "speakers" : [
       {
@@ -743,6 +779,7 @@
       "label_en" : "Development"
     },
     "title" : "Journalist Pitch Lab",
+    "abstract" : "Want to get your apps noticed? Learn how to refine your pitch from the bloggers and journalists behind some of the biggest publications in the tech community. This is your opportunity to get some \"facetime\" (no WiFi required) with prominent members of the press, including Mark Gurman (9to5Mac), Arnold Kim (MacRumors), Peter Cohen (iMore), Nicole Martinelli (CultOfMac), and Victor Agreda, Jr. (TUAW). ",
     "duration" : 180,
     "url" : "http:\/\/altconf.com\/speakers"
   },
@@ -759,6 +796,7 @@
       "label_en" : "Development"
     },
     "title" : "Networking and Sync Lab",
+    "abstract" : "Challenge Leah Culver of Dropbox, Drew McCormack of the Ensembles sync framework and Mattt Thompson, the original NSHipster and creator of AFNetworking with your questions about getting data from here to there and back again.",
     "duration" : 180,
     "url" : "http:\/\/altconf.com\/speakers"
   },
@@ -860,6 +898,7 @@
       "label_en" : "Development"
     },
     "title" : "Dev Tools Lab",
+    "abstract" : "Had a fun and educational time at the CocoaPods Alt State of the Union? Then come along to the CocoaPods Lab to work alongside the CocoaPods core team. Ask questions, get advice, or contribute something back to the CocoaPods project. You'll also get a chance to connect with the creators of Alcatraz, the missing Xcode plugin manager, Delisa Mason and Marin Usalj. Learn about neat tools or submit your own for the community to enjoy.",
     "duration" : 180,
     "url" : "http:\/\/altconf.com\/speakers"
   },
@@ -938,6 +977,7 @@
       "label_en" : "Development"
     },
     "title" : "DevMate Introduction",
+    "abstract" : "There’s life outside the Mac App Store! Kyryl Bystriakov, Product Manager of MacPaw, and Dmitry Tretiakov, DevMate's frameworks developer will present solutions and a set of tools that will help you solve the problems you'll meet on your way, including practical advice from their own experience.",
     "duration" : 90,
     "url" : "http:\/\/altconf.com\/speakers"
   },
@@ -1055,7 +1095,7 @@
       "label_en" : "Development"
     },
     "title" : "Core Data Lab",
-    "abstract" : "Got Core Data question? Attend the Core Data lab and pose them to undisputed Core Data experts\/influencers Saul Mora, creator of Magical Record, and Marcus Zarra who literally wrote the book about it. ",
+    "abstract" : "Got Core Data question? Attend the Core Data lab and pose them to undisputed Core Data experts/influencers Saul Mora, creator of Magical Record, Matthew Morey, known for his work on increasing Core Data performance and Marcus Zarra who literally wrote the book about it.",
     "duration" : 180,
     "speakers" : [
       {
@@ -1139,7 +1179,25 @@
       "id" : "development",
       "label_en" : "Development"
     },
-    "title" : "System Internals and Jailbreaking Lab",
+    "title" : "Jailbreaking Lab",
+    "duration" : 180,
+    "abstract" : "Join Samuel Marshall, co-author of ‘OS X Internals: A Systems Approach' and pick his brain about anything from DRM to framework internals and reverse engineering.",
+    "url" : "http:\/\/altconf.com\/speakers"
+  },
+    {
+    "end" : "2014-06-06T12:00:00-07:00",
+    "location" : {
+      "id" : "alt-location-lab-2",
+      "label_en" : "Jilian's"
+    },
+    "begin" : "2014-06-06T09:00:00-07:00",
+    "id" : "alt-lab-19",
+    "track" : {
+      "id" : "development",
+      "label_en" : "Development"
+    },
+    "title" : "Reverse Engineering Lab",
+    "abstract" : "Jay Freeman (Cydia's \"saurik\") and Britta Gustafson (also from SaurikIT) will be in the house to have an open dialogue about what jailbreaking means for the developer community. The Lab will be helpful to everyone from the barely-heard-of-jailbreaking developers to those who enjoy talking about kernel exploits on their days off. You'll have the opportunity to learn about popular extensions available on a jailbroken iOS that provide features and functionality otherwise impossible inside the self-contained \"App Store app\" model. For app developers, stop by to hear about how jailbreaking affects your apps, the interesting advantages of testing on jailbroken devices, or just to say \"hi\".",
     "duration" : 180,
     "url" : "http:\/\/altconf.com\/speakers"
   },
@@ -1243,7 +1301,7 @@
       "id" : "alt-location-lab-1",
       "label_en" : "Jilian's"
     },
-    "begin" : "2014-06-06T12:00:00-07:00",
+    "begin" : "2014-06-06T13:00:00-07:00",
     "id" : "alt-lab-15",
     "track" : {
       "id" : "development",
