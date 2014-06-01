@@ -31,9 +31,19 @@
         "title": "What The Heck Are We Building Here? - Software Ethics in a Time of Surveillance "
       }
     ],
+    "links": [
+      {
+        "username": "twittelator",
+        "title": "Twitter @twittelator",
+        "url": "https://twitter.com/twittelator",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "indie iOS dev, farmer, father, further forever - founder stone . com, original NeXT developer 1989",
+    "photo": "https://pbs.twimg.com/profile_images/592770640/dru_400x400.png",
     "name": "Andrew Stone",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -45,9 +55,19 @@
         "title": "Introduction to RAC"
       }
     ],
+    "links": [
+      {
+        "username": "twittelator",
+        "title": "Twitter @ashfurrow",
+        "url": "https://twitter.com/ashfurrow",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/2566171949/ashfurrow_square_400x400.jpeg",
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "iOS Developer at @artsy. Author. Photographer. Host of @springboardshow and @defaultCenter",
     "name": "Ash Furrow",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -70,7 +90,7 @@
       }
     ],
     "type": "speaker",
-    "biography": "",
+    "biography": "Senior recruiter at @CocoaPods. Formerly at git submodules.",
     "photo": "https://pbs.twimg.com/profile_images/472860850475122688/ti6GD7OB_400x400.jpeg",
     "name": "Boris Bügling",
     "url": "http://www.altconf.com/speakers/"
@@ -94,7 +114,7 @@
       }
     ],
     "type": "speaker",
-    "biography": "",
+    "biography": "Mac and iOS developer. One-third of Q Branch, where I write Vesper. One-half of The Record.",
     "photo": "https://pbs.twimg.com/profile_images/1608701783/GoldenGardens_Cropped_400x400.png",
     "name": "Brent Simmons",
     "url": "http://www.altconf.com/speakers/"
@@ -118,7 +138,7 @@
       }
     ],
     "type": "speaker",
-    "biography": "",
+    "biography": "Head of Development at Giant Spacekat, specializing in cinematic experiences using Unreal. I race motorcycles, run marathons, and flip tables unapologetically.",
     "photo": "https://pbs.twimg.com/profile_images/1178987186/41542_6510219_8738_n_400x400.jpg",
     "name": "Brianna Wu",
     "url": "http://www.altconf.com/speakers/"
@@ -131,9 +151,18 @@
         "title": "Mindful Design & Marketing"
       }
     ],
+    "links": [
+      {
+        "username": "carlawhite",
+        "title": "Twitter @carlawhite",
+        "url": "https://twitter.com/carlawhite",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "Creator of @theGratitudeApp and author of @IdeaToiPhone. Spiritual junkie & geek girl. You can find me at http://www.getgratitude.co",
     "name": "Carla White",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -145,9 +174,19 @@
         "title": "Thoughts on Design within HIGs"
       }
     ],
+    "links": [
+      {
+        "username": "DWiskus",
+        "title": "Twitter @DWiskus",
+        "url": "https://twitter.com/DWiskus",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/3034523553/34fdb21a35a2b498850d02780b1c1fe8_400x400.png",
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "I draw pictures of software for money.",
     "name": "David Wiskus",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -170,7 +209,7 @@
       }
     ],
     "type": "speaker",
-    "biography": "",
+    "biography": "Mac and iOS developer, trainer, and songwriter. Front man of James Dempsey and the Breakpoints. Occasional quip vendor.",
     "photo": "https://pbs.twimg.com/profile_images/378800000649736414/f9cb8cbbd00de3fd6074896c87f24341_400x400.jpeg",
     "name": "James Dempsey",
     "url": "http://www.altconf.com/speakers/"
@@ -183,7 +222,17 @@
       }],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "I have many followers; when I use Twitter, I get more replies than Twitter lets me scroll through after a few hours. Do not expect me to see things posted here.",
+    "links": [
+      {
+        "username": "Saurik",
+        "title": "Twitter @Saurik",
+        "url": "https://twitter.com/Saurik",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/1434747464/square_400x400.png",
     "name": "Jay Freeman",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -197,7 +246,17 @@
     ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "links": [
+      {
+        "username": "jaythrash",
+        "title": "Twitter @jaythrash",
+        "url": "https://twitter.com/jaythrash",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/1754483148/twitter_bw_400x400.jpg",
+    "biography": "iOS app developer for @airdropapps, podcaster, coffee drinker, avid home cook, recovering comic book geek. Profile photo courtesy of @duncan",
     "name": "Jay Thrash",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -211,7 +270,17 @@
     ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "links": [
+      {
+        "username": "macgenie",
+        "title": "Twitter @macgenie",
+        "url": "https://twitter.com/macgenie",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/469115842295521280/kyRLbQR3_400x400.jpeg",
+    "biography": "Founder at @AppCamp4Girls; former partner at @SmileSoftware; plays guitar in @RubyCalling; favorite aunt.",
     "name": "Jean MacDonald",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -223,8 +292,18 @@
         "title" : "Date and times in iOS"
       }
     ],
+    "links": [
+      {
+        "username": "SlaunchaMan",
+        "title": "Twitter @SlaunchaMan",
+        "url": "https://twitter.com/SlaunchaMan",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
+    "photo": "https://pbs.twimg.com/profile_images/458980502985142273/TMDnk3U4_400x400.jpeg",
     "biography": "Jeff Kelley is an iOS developer at Detroit Labs and author of Learn Cocoa Touch for iOS, published by Apress. He got his start with programming at the age of five, modifying programs his mom dutifully typed from a magazine into Qbasic (thanks, Mom!). He’s been working with iOS since its infancy in 2008, and before that managed the OS X environment at the University of Michigan, where he obtained a very-related degree in Philosophy. Apps he’s worked on that you’ve likely seen are the Domino’s Pizza iOS ordering app, the award-winning Chevy Game Time second-screen Super Bowl experience, and the DTE Energy outage center app. When not working on iOS apps, Jeff listens to an inordinate amount of podcasts and organizes the Motor City CocoaHeads group.",
     "name": "Jeff Kelly",
     "url": "http://www.altconf.com/speakers/"
@@ -251,9 +330,19 @@
         "title": "Debugging the Contract"
       }
     ],
+    "links": [
+      {
+        "username": "jdrhyne",
+        "title": "Twitter @jdrhyne",
+        "url": "https://twitter.com/jdrhyne",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "iOS Dev Attorney, tech enthusiast, forex dabbler, wannabe european football star. I dig The Arsenal.",
+    "photo": "https://pbs.twimg.com/profile_images/3620395243/387c48578bbb256ee05cbbce902752a4_400x400.jpeg",
     "name": "Jonathan Rhyne",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -265,9 +354,19 @@
         "title": "Finding the Intersection: Thoughts on Art & Tech"
       }
     ],
+    "links": [
+      {
+        "username": "joshjet",
+        "title": "Twitter @joshjet",
+        "url": "https://twitter.com/joshjet",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "photo": "https://pbs.twimg.com/profile_images/1393038544/5816445759_816a61b5b2_b_400x400.jpg",
+    "biography": "earth citizen, app developer, world traveler, photographer, comedian, and aspirational hip-hop star. maker of magic window & ow my balls!",
     "name": "Josh Michaels",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -276,6 +375,16 @@
     "sessions": [],
     "event": "alt",
     "type": "speaker",
+    "links": [
+      {
+        "username": "luissolano",
+        "title": "Twitter @luissolano",
+        "url": "https://twitter.com/luissolano",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/441481176234999808/Jzbd-5O7_400x400.jpeg",
     "biography": "",
     "name": "Luis Solano",
     "url": "http://www.altconf.com/speakers/"
@@ -306,9 +415,19 @@
         "title": "TBA"
       }
     ],
+    "links": [
+      {
+        "username": "rands",
+        "title": "Twitter @rands",
+        "url": "https://twitter.com/rands",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/458982455932760064/40qsmGPF_400x400.png",
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "reposing about werewolves, pens, and writing.",
     "name": "Michael Lopp",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -320,9 +439,19 @@
         "title": "Enriching the iOS SDK"
       }
     ],
+    "links": [
+      {
+        "username": "mbcrump",
+        "title": "Twitter @mbcrump",
+        "url": "https://twitter.com/mbcrump",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/378800000192869670/78489255a71a2d8c446e65c909ece64f_400x400.jpeg",
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "Husband, Father of 2, Works @Telerik, Microsoft MVP, Loves working with mobile and web technologies.",
     "name": "Michael Crump",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -334,9 +463,19 @@
         "title": "Demistifying The .xcodeproj File"
       }
     ],
+    "links": [
+      {
+        "username": "micheletitolo",
+        "title": "Twitter @micheletitolo",
+        "url": "https://twitter.com/micheletitolo",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "photo": "https://pbs.twimg.com/profile_images/3105057496/8ee2de17e4675c336374f333a5cc6a96_400x400.png",
+    "biography": "#iosdev #xcode, #wwcode, #DoctorWho, #nerdlife && currently @reddit, @cocoapods, @womenwhocode",
     "name": "Michele Titolo",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -359,7 +498,7 @@
       }
     ],
     "type": "speaker",
-    "biography": "",
+    "biography": "Meta-engineering, knowledge arbitrage, and other made-up terms Hobbies include neuroscience, physics, and primatology",
     "name": "Mike Lee",
     "photo": "https://pbs.twimg.com/profile_images/415590099536338944/M9PP5ZJR_400x400.jpeg",
     "url": "http://www.altconf.com/speakers/"
@@ -372,9 +511,19 @@
         "title": "XPC what I did there?”"
       }
     ],
+    "links": [
+      {
+        "username": "wookiee",
+        "title": "Twitter @wookiee",
+        "url": "https://twitter.com/wookiee",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/3341818402/f942c2f76844789a1b3df459a2688bcd_400x400.jpeg",
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "Random programmer dude and cuddliest of the big nerds at the ranch.",
     "name": "Mikey Ward",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -386,9 +535,20 @@
         "title": "User Research for a Better Product"
       }
     ],
+   "links": [
+      {
+        "username": "nadyne",
+        "title": "Twitter @nadyne",
+        "url": "https://twitter.com/nadyne",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "photo": "https://pbs.twimg.com/profile_images/1274716292/Photo_on_2011-02-24_at_15.17_400x400.jpg",
+    "biography": "Expert in user research, usability, research methods, Mac users, enterprise users.
+Staff researcher at VMware",
     "name": "Nadyne Richmond",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -411,7 +571,7 @@
     ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "I'm orta, I make awesome apps for @Artsy. Design Dictator at @CocoaPods built @CocoaDocs. Check out the 5 minute obj-c podcast I co-host: @Pod5Podcast",
     "photo": "https://pbs.twimg.com/profile_images/464291563259318272/8NHpSb9j_400x400.jpeg",
     "name": "Orta Therox",
     "url": "http://www.altconf.com/speakers/"
@@ -424,10 +584,20 @@
         "title": "Discovery in the Appstore World"
       }
     ],
+    "links": [
+      {
+        "username": "OurielOhayon",
+        "title": "Twitter @OurielOhayon",
+        "url": "https://twitter.com/OurielOhayon",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "ex-vc. still blogger. french - israeli. co founder of @Appsfire and @Isai_fr (early stage VC)",
     "name": "Ouriel Ohayon",
+    "photo": "https://pbs.twimg.com/profile_images/2868563826/6adae822615471ea1a7488a83f5b14a4_400x400.png",
     "url": "http://www.altconf.com/speakers/"
   },
   {
@@ -438,11 +608,21 @@
         "title": "Fostering a Local Development Community"
       }
     ],
+    "links": [
+      {
+        "username": "philippec",
+        "title": "Twitter @philippec",
+        "url": "https://twitter.com/philippec",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
+    "photo": "https://pbs.twimg.com/profile_images/3257302584/dd02f0c516c9e0e7101f4597c1841f36_400x400.jpeg",
     "biography": "Philippe is a Lead Developer at LightSpeed Retail, a Mac and Cloud-based point-of-sales system. He previously worked on Corel Painter and Mac versions of many AAA video games. After successfully leading his local Cocoaheads user group for five years, he co-organized the critically-acclaimed NSNorth conference in Ottawa.",
     "name": "Philippe Casgrain",
-    "url": "X"
+    "url": "http://www.altconf.com/speakers/"
   },
   {
     "id": "alt-speaker-16",
@@ -452,9 +632,19 @@
         "title": "Adding Juice to your Games"
       }
     ],
+    "links": [
+      {
+        "username": "rwenderlich",
+        "title": "Twitter @rwenderlich",
+        "url": "https://twitter.com/rwenderlich",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/461209080/Profile_400x400.png",
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "Ray Wenderlich is an iPhone developer and tweets on topics related to iPhone, software, and gaming. Check out my dev blog: http://www.raywenderlich.com ",
     "name": "Ray Wenderlich",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -477,7 +667,7 @@
     ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "Robb is a mobile developer from Berlin. He likes cats, Core Animation and contributing to open source projects. Take a look at https://github.com/robb or http://robb.is 💖",
     "photo": "https://pbs.twimg.com/profile_images/1846527502/twitter_400x400.png",
     "name": "Robert Böhnke",
     "url": "http://www.altconf.com/speakers/"
@@ -490,10 +680,20 @@
         "title": "Accessibility: Beyond VoiceOver"
       }
     ],
+    "links": [
+      {
+        "username": "mostgood",
+        "title": "Twitter @mostgood",
+        "url": "https://twitter.com/mostgood",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "Head of App Development at Dennis Media Factory.",
     "name": "Sally Shepard",
+    "photo": "https://pbs.twimg.com/profile_images/415625219811082240/x9dzoZ8A_400x400.jpeg",
     "url": "http://www.altconf.com/speakers/"
   },
   {
@@ -504,9 +704,19 @@
         "title": "Insecure Code"
       }
     ],
+    "links": [
+      {
+        "username": "Dirk_Gently",
+        "title": "Twitter @Dirk_Gently",
+        "url": "https://twitter.com/Dirk_Gently",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "photo": "https://pbs.twimg.com/profile_images/471854889438416896/BSvOXs0f_400x400.png",
+    "biography": "Does Bad Things to iOS. Co-author of the new ‘OS X Internals: A Systems Approach’ Works at @Flexibits Diablo 3 - DirkGently#1944",
     "name": "Sam Marshall",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -522,6 +732,16 @@
         "title": "The Grass is Always Greener, or is it?"
       }
     ],
+    "links": [
+      {
+        "username": "casademora",
+        "title": "Twitter @casademora",
+        "url": "https://twitter.com/casademora",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
+    "photo": "https://pbs.twimg.com/profile_images/1378412006/20090310-IMG_0606_400x400.jpg",
     "event": "alt",
     "type": "speaker",
     "biography": "",
@@ -597,7 +817,7 @@
     ],
     "event": "alt",
     "type": "speaker",
-    "biography": "",
+    "biography": "Hacker from the Rustbelt. Engineer at @panic.",
     "photo": "https://pbs.twimg.com/profile_images/3573863306/5333c08eae9005dd7a8cdd478202c818_400x400.jpeg",
     "name": "mattt Thompson",
     "url": "http://www.altconf.com/speakers/"
@@ -610,9 +830,19 @@
         "title": "The 4 Mobile Traps"
       }
     ],
+    "links": [
+      {
+        "username": "michaelmace",
+        "title": "Twitter @michaelmace",
+        "url": "https://twitter.com/michaelmace",
+        "service": "twitter",
+        "speaker-link": "speaker-link"
+      }
+    ],
     "event": "alt",
+    "photo": "https://pbs.twimg.com/profile_images/1121222508/Mike_headshot_bw_400x400.JPG",
     "type": "speaker",
-    "biography": "",
+    "biography": "Tech industry CEO & strategist",
     "name": "Michael Mace",
     "url": "http://www.altconf.com/speakers/"
   },
