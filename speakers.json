@@ -374,7 +374,12 @@
   },
   {
     "id": "alt-speaker-35",
-    "sessions": [],
+    "sessions": [
+      {
+        "id": "alt-session-67",
+        "title": "Techniques to write DSLs in objective C"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
     "links": [
@@ -847,20 +852,6 @@
     "type": "speaker",
     "biography": "Tech industry CEO & strategist",
     "name": "Michael Mace",
-    "url": "http://www.altconf.com/speakers/"
-  },
-  {
-    "id": "alt-speaker-39",
-    "sessions": [
-      {
-        "id": "alt-session-67",
-        "title": "Techniques to write DSLs in objective C"
-      }
-    ],
-    "event": "alt",
-    "type": "speaker",
-    "biography": "",
-    "name": "Luis Solano",
     "url": "http://www.altconf.com/speakers/"
   },
   {
