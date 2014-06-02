@@ -1506,12 +1506,12 @@
     "url": "http://altconf.com/speakers"
   },
   {
-    "end": "2014-06-05T15:15:00-07:00",
+    "end": "2014-06-06T15:15:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
       "label_en": "Creativity Museum"
     },
-    "begin": "2014-06-05T14:45:00-07:00",
+    "begin": "2014-06-06T14:45:00-07:00",
     "id": "alt-session-68",
     "track": {
       "id": "development",
