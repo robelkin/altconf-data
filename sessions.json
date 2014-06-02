@@ -1110,7 +1110,7 @@
       "id": "development",
       "label_en": "Development"
     },
-    "title": "TBA",
+    "title": "Stables and Volatiles",
     "abstract": "",
     "duration": 60,
     "speakers": [
@@ -1453,7 +1453,7 @@
     "duration": 15,
     "speakers": [
       {
-        "id": "alt-speaker-34",
+        "id": "alt-speaker-36",
         "name": "Mattt Thompson"
       }
     ],

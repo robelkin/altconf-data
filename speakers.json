@@ -216,10 +216,12 @@
   },
   {
     "id": "alt-speaker-33",
-    "sessions": [{
-      "id": "alt-session-66",
-      "title": "debugging your apps with cycript"
-      }],
+    "sessions": [
+      {
+        "id": "alt-session-66",
+        "title": "debugging your apps with cycript"
+      }
+    ],
     "event": "alt",
     "type": "speaker",
     "biography": "I have many followers; when I use Twitter, I get more replies than Twitter lets me scroll through after a few hours. Do not expect me to see things posted here.",
@@ -289,7 +291,7 @@
     "sessions": [
       {
         "id": "alt-session-64",
-        "title" : "Date and times in iOS"
+        "title": "Date and times in iOS"
       }
     ],
     "links": [
@@ -535,7 +537,7 @@
         "title": "User Research for a Better Product"
       }
     ],
-   "links": [
+    "links": [
       {
         "username": "nadyne",
         "title": "Twitter @nadyne",
@@ -547,8 +549,7 @@
     "event": "alt",
     "type": "speaker",
     "photo": "https://pbs.twimg.com/profile_images/1274716292/Photo_on_2011-02-24_at_15.17_400x400.jpg",
-    "biography": "Expert in user research, usability, research methods, Mac users, enterprise users.
-Staff researcher at VMware",
+    "biography": "Expert in user research, usability, research methods, Mac users, enterprise users. Staff researcher at VMware",
     "name": "Nadyne Richmond",
     "url": "http://www.altconf.com/speakers/"
   },
@@ -802,10 +803,12 @@ Staff researcher at VMware",
   },
   {
     "id": "alt-speaker-36",
-    "sessions": [{
-      "id": "alt-session-65",
-      "title":"Hidden gems in iOS"
-      }],
+    "sessions": [
+      {
+        "id": "alt-session-65",
+        "title": "Hidden gems in iOS"
+      }
+    ],
     "links": [
       {
         "username": "mattt",
@@ -860,7 +863,7 @@ Staff researcher at VMware",
     "name": "Luis Solano",
     "url": "http://www.altconf.com/speakers/"
   },
-    {
+  {
     "id": "alt-speaker-40",
     "sessions": [
       {
