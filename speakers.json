@@ -384,15 +384,15 @@
     "type": "speaker",
     "links": [
       {
-        "username": "luissolano",
-        "title": "Twitter @luissolano",
-        "url": "https://twitter.com/luissolano",
+        "username": "luisobo",
+        "title": "Twitter @luisobo",
+        "url": "https://twitter.com/luisobo",
         "service": "twitter",
         "speaker-link": "speaker-link"
       }
     ],
-    "photo": "https://pbs.twimg.com/profile_images/441481176234999808/Jzbd-5O7_400x400.jpeg",
-    "biography": "",
+    "photo": "https://pbs.twimg.com/profile_images/3389491907/07cc06b92e7de059c33e74a6713abf72_400x400.jpeg",
+    "biography": "Lead iOS Engineer at @pixable | Unit test or GTFO | Creator of Nocilla and other open source stuff (http://github.com/luisobo ) | 111 @ Flappy Bird",
     "name": "Luis Solano",
     "url": "http://www.altconf.com/speakers/"
   },
