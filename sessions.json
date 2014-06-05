@@ -344,6 +344,16 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/Qi5EBgfvqIQ/mqdefault.jpg",
+          "title": "Designers ♥ Developers",
+          "url": "https://www.youtube.com/v/Qi5EBgfvqIQ",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
+
     "end": "2014-06-03T14:45:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -502,6 +512,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/Ffa90t7T35g/mqdefault.jpg",
+          "title": "Reflections on device addictions, the big data state, and alternative futures.",
+          "url": "https://www.youtube.com/v/Ffa90t7T35g",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-03T15:15:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -525,6 +544,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/BXKrOrhJMGg/mqdefault.jpg",
+          "title": "Ethics in Software Discussion Panel",
+          "url": "https://www.youtube.com/v/BXKrOrhJMGg",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-03T16:15:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -581,6 +609,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/stTk88mQ5mw/mqdefault.jpg",
+          "title": "Enriching the iOS SDK",
+          "url": "https://www.youtube.com/v/stTk88mQ5mw",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-04T10:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -604,6 +641,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/TlgUWYrQ0sc/mqdefault.jpg",
+          "title": "Reactive Cocoa 101",
+          "url": "https://www.youtube.com/v/TlgUWYrQ0sc",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-04T09:30:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -862,6 +908,16 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/HGQ89UjgEMs/mqdefault.jpg",
+          "title": "XPC What I Did There?",
+          "url": "https://www.youtube.com/v/HGQ89UjgEMs",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
+
     "end": "2014-06-04T16:15:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -902,6 +958,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/KA9ztNKQJBY/mqdefault.jpg",
+          "title": "Discovery in the Appstore World",
+          "url": "https://www.youtube.com/v/KA9ztNKQJBY",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-05T10:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -925,6 +990,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+    "links": [
+        {
+            "thumbnail": "http://i.ytimg.com/vi/4lzP1SsCcyw/mqdefault.jpg",
+            "title": "Accessibility: Beyond VoiceOver",
+            "url": "https://www.youtube.com/v/4lzP1SsCcyw",
+            "service": "youtube",
+            "type": "recording"
+        }
+    ],
     "end": "2014-06-05T09:30:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -981,6 +1055,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/v5VWquKgNIc/mqdefault.jpg",
+          "title": "Communicating Across the Geek Divide",
+          "url": "https://www.youtube.com/v/v5VWquKgNIc",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-05T11:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -1436,6 +1519,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/Wgz7JmZgRd4/mqdefault.jpg",
+          "title": "The 4 Mobile Traps",
+          "url": "https://www.youtube.com/v/Wgz7JmZgRd4",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-04T10:45:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
