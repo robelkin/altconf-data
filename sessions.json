@@ -473,6 +473,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/UfjiWzcGPdk/mqdefault.jpg",
+          "title": "Being Better",
+          "url": "https://www.youtube.com/v/UfjiWzcGPdk",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-03T14:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -1087,6 +1096,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/2k9aFMGLQM4/mqdefault.jpg",
+          "title": "Mindful Design & Marketing",
+          "url": "https://www.youtube.com/v/2k9aFMGLQM4",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-03T13:15:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
