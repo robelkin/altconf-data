@@ -219,6 +219,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/_mdrJOV0L3M/mqdefault.jpg",
+          "title": "From Zero to Marketing in 7 days",
+          "url": "https://www.youtube.com/v/_mdrJOV0L3M",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-03T10:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -242,6 +251,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/dVmdFNbcjGQ/mqdefault.jpg",
+          "title": "Using Quartz Composer and Origami",
+          "url": "https://www.youtube.com/v/dVmdFNbcjGQ",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-03T09:30:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -298,6 +316,16 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/hT5UXAg9GGs/mqdefault.jpg",
+          "title": "User Research for a Better Product",
+          "url": "https://www.youtube.com/v/hT5UXAg9GGs",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
+
     "end": "2014-06-03T11:30:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -321,6 +349,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/2DvDeEZ0NDw/mqdefault.jpg",
+          "title": "Project Eigen Post Mortem",
+          "url": "https://www.youtube.com/v/2DvDeEZ0NDw",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-03T11:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -332,7 +369,7 @@
       "id": "development",
       "label_en": "Development"
     },
-    "title": "Getting out Eigen",
+    "title": "Project Eigen Post Mortem",
     "abstract": "Trials and tribulations on releasing artsy's first consumer facing app.",
     "duration": 30,
     "speakers": [
@@ -410,6 +447,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/6LcflnBHyXs/mqdefault.jpg",
+          "title": "Extending Xcode",
+          "url": "https://www.youtube.com/v/6LcflnBHyXs",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-03T12:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
