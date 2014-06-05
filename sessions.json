@@ -156,6 +156,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/6BsHIa-1psc/mqdefault.jpg",
+          "title": "Implementing Sync In Vesper",
+          "url": "https://www.youtube.com/v/6BsHIa-1psc",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-02T15:45:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -179,6 +188,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/AiwgQIMkiFw/mqdefault.jpg",
+          "title": "How to Make a Vesper",
+          "url": "https://www.youtube.com/v/AiwgQIMkiFw",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-02T15:15:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -496,6 +514,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/iToKETXdwvU/mqdefault.jpg",
+          "title": "The Real Power of BLE",
+          "url": "https://www.youtube.com/v/iToKETXdwvU",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-02T16:15:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -1482,6 +1509,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/wA0_A2Jvz6I/mqdefault.jpg",
+          "title": "Debugging the Contract",
+          "url": "https://www.youtube.com/v/wA0_A2Jvz6I",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-02T14:30:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
