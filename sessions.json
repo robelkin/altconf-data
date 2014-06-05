@@ -663,9 +663,27 @@
         "name": "Brianna Wu"
       }
     ],
-    "url": "http://altconf.com/speakers"
+    "url": "http://altconf.com/speakers",
+    "links": [
+        {
+            "thumbnail": "http://i.ytimg.com/vi/XGqmneujHYY/mqdefault.jpg",
+            "title": "Nine ways to stop hurting and start helping women in tech",
+            "url": "https://www.youtube.com/v/XGqmneujHYY",
+            "service": "youtube",
+            "type": "recording"
+        }
+    ]
   },
   {
+    "links": [
+        {
+            "thumbnail": "http://i.ytimg.com/vi/5aGFPpMvILY/mqdefault.jpg",
+            "title": "Adding Juice to your Games",
+            "url": "https://www.youtube.com/v/5aGFPpMvILY",
+            "service": "youtube",
+            "type": "recording"
+        }
+    ],
     "end": "2014-06-04T12:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -705,6 +723,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+    "links": [
+        {
+            "thumbnail": "http://i.ytimg.com/vi/0nHqgU899gk/mqdefault.jpg",
+            "title": "Games Discussion Panel",
+            "url": "https://www.youtube.com/v/0nHqgU899gk",
+            "service": "youtube",
+            "type": "recording"
+        }
+    ],
     "end": "2014-06-04T14:00:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -755,6 +782,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+    "links": [
+        {
+            "thumbnail": "http://i.ytimg.com/vi/lmvqADmLozM/mqdefault.jpg",
+            "title": "Sam Marshall - Insecure Code",
+            "url": "https://www.youtube.com/v/lmvqADmLozM",
+            "service": "youtube",
+            "type": "recording"
+        }
+    ],
     "end": "2014-06-04T14:30:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -794,6 +830,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+  "links": [
+      {
+          "thumbnail": "http://i.ytimg.com/vi/24R789nX8ZA/mqdefault.jpg",
+          "title": "Networking on the Mac",
+          "url": "https://www.youtube.com/v/24R789nX8ZA",
+          "service": "youtube",
+          "type": "recording"
+      }
+  ],
     "end": "2014-06-04T15:15:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
@@ -1414,6 +1459,15 @@
     "url": "http://altconf.com/speakers"
   },
   {
+    "links": [
+        {
+            "thumbnail": "http://i.ytimg.com/vi/QcQ4RQdBGjA/mqdefault.jpg",
+            "title": "Dates and times in iOS",
+            "url": "https://www.youtube.com/v/QcQ4RQdBGjA",
+            "service": "youtube",
+            "type": "recording"
+        }
+    ],
     "end": "2014-06-04T15:45:00-07:00",
     "location": {
       "id": "alt-location-mainstage",
